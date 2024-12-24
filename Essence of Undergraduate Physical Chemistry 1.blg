@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Essence of Undergraduate Physical Chemistry 1.aux
+A level-1 auxiliary file: Chapters/Ch1.aux
+A level-1 auxiliary file: Chapters/Ch2.aux
+A level-1 auxiliary file: Chapters/Ch3.aux
+A level-1 auxiliary file: Chapters/Ch4.aux
+A level-1 auxiliary file: Chapters/Ch5.aux
+A level-1 auxiliary file: Chapters/Ch6.aux
+The style file: ieeetr.bst
+Database file #1: ref.bib
+You've used 6 entries,
+            1876 wiz_defined-function locations,
+            527 strings with 4423 characters,
+and the built_in function-call counts, 1561 in all, are:
+= -- 147
+> -- 54
+< -- 0
++ -- 20
+- -- 14
+* -- 109
+:= -- 226
+add.period$ -- 9
+call.type$ -- 6
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 82
+empty$ -- 169
+format.name$ -- 14
+if$ -- 391
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 9
+newline$ -- 24
+num.names$ -- 10
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 47
+stack$ -- 0
+substring$ -- 76
+swap$ -- 29
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 14
+width$ -- 7
+write$ -- 66

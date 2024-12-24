@@ -1,0 +1,2693 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.24)  24 DEC 2024 17:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"e:/물화정/PChemEssence1/PChemEssence1/Essence of Undergraduate Physical Chemistry 1.tex"
+(e:/물화정/PChemEssence1/PChemEssence1/Essence of Undergraduate Physical Chemistry 1.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-09>
+(c:/texlive/2024/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrextend.sty
+Package: scrextend 2024/10/24 v3.43 KOMA-Script package (extend other classes with features of KOMA-Script classes)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2024/10/24 v3.43 KOMA-Script package (file load hooks)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2024/10/24 v3.43 KOMA-Script package (using LaTeX hooks)
+ (c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2024/10/24 v3.43 KOMA-Script package (logo)
+))) (c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
+))) (./Configs/configs.tex (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+) (c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen150
+)) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count274
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count275
+\leftroot@=\count276
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count277
+\DOTSCASE@=\count278
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count279
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count280
+\dotsspace@=\muskip17
+\c@parentequation=\count281
+\dspbrk@lvl=\count282
+\tag@help=\toks22
+\row@=\count283
+\column@=\count284
+\maxfields@=\count285
+\andhelp@=\toks23
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks24
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2024/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks31
+) (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (c:/texlive/2024/texmf-dist/tex/latex/cjk-ko/kotex.sty
+Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
+ (c:/texlive/2024/texmf-dist/tex/latex/kotex-utf/kotex.cfg) (c:/texlive/2024/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+Package: kotexutf 2022/06/22 v3.0.0 typesetting UTF-8 Korean documents
+ (c:/texlive/2024/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count286
+\dhucs@emph@raise=\dimen159
+)
+Now handling font encoding LUC ...
+... processing UTF-8 mapping file for font encoding LUC
+ (c:/texlive/2024/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+3001 (decimal 12289)
+   defining Unicode char U+3002 (decimal 12290)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+300A (decimal 12298)
+   defining Unicode char U+300B (decimal 12299)
+   defining Unicode char U+300C (decimal 12300)
+   defining Unicode char U+300D (decimal 12301)
+   defining Unicode char U+300E (decimal 12302)
+   defining Unicode char U+300F (decimal 12303)
+   defining Unicode char U+3010 (decimal 12304)
+   defining Unicode char U+3011 (decimal 12305)
+   defining Unicode char U+3014 (decimal 12308)
+   defining Unicode char U+3015 (decimal 12309)
+   defining Unicode char U+3016 (decimal 12310)
+   defining Unicode char U+3017 (decimal 12311)
+   defining Unicode char U+3018 (decimal 12312)
+   defining Unicode char U+3019 (decimal 12313)
+   defining Unicode char U+301A (decimal 12314)
+   defining Unicode char U+301B (decimal 12315)
+   defining Unicode char U+FF01 (decimal 65281)
+   defining Unicode char U+FF08 (decimal 65288)
+   defining Unicode char U+FF09 (decimal 65289)
+   defining Unicode char U+FF0C (decimal 65292)
+   defining Unicode char U+FF0E (decimal 65294)
+   defining Unicode char U+FF1A (decimal 65306)
+   defining Unicode char U+FF1B (decimal 65307)
+   defining Unicode char U+FF1C (decimal 65308)
+   defining Unicode char U+FF1D (decimal 65309)
+   defining Unicode char U+FF1E (decimal 65310)
+   defining Unicode char U+FF1F (decimal 65311)
+   defining Unicode char U+FF3B (decimal 65339)
+   defining Unicode char U+FF3D (decimal 65341)
+   defining Unicode char U+FF5B (decimal 65371)
+   defining Unicode char U+FF5D (decimal 65373)
+   defining Unicode char U+FF61 (decimal 65377)
+   defining Unicode char U+FF62 (decimal 65378)
+   defining Unicode char U+FF63 (decimal 65379)
+   defining Unicode char U+FF64 (decimal 65380)
+   defining Unicode char U+FF65 (decimal 65381)
+)
+\@josa=\count287
+\josatoks=\toks32
+ (c:/texlive/2024/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
+))) (c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip57
+\enit@outerparindent=\dimen160
+\enit@toks=\toks33
+\enit@inbox=\box54
+\enit@count@id=\count288
+\enitdp@description=\count289
+) (c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-12-09 L3 programming layer (loader) 
+ (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box55
+))
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count291
+\l__lipsum_a_int=\count292
+\l__lipsum_b_int=\count293
+ (c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (c:/texlive/2024/texmf-dist/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count294
+\l__tblr_c_int=\count295
+\l__tblr_r_int=\count296
+\l__tblr_d_dim=\dimen161
+\l__tblr_h_dim=\dimen162
+\l__tblr_o_dim=\dimen163
+\l__tblr_p_dim=\dimen164
+\l__tblr_q_dim=\dimen165
+\l__tblr_r_dim=\dimen166
+\l__tblr_s_dim=\dimen167
+\l__tblr_t_dim=\dimen168
+\l__tblr_v_dim=\dimen169
+\l__tblr_w_dim=\dimen170
+\l__tblr_a_box=\box56
+\l__tblr_b_box=\box57
+\l__tblr_c_box=\box58
+\l__tblr_d_box=\box59
+\g__tblr_table_count_int=\count297
+\c@rownum=\count298
+\c@colnum=\count299
+\c@rowcount=\count300
+\c@colcount=\count301
+\abovesep=\dimen171
+\belowsep=\dimen172
+\leftsep=\dimen173
+\rightsep=\dimen174
+\g_tblr_level_int=\count302
+\g__tblr_data_row_key_count_int=\count303
+\g__tblr_data_column_key_count_int=\count304
+\g__tblr_data_cell_key_count_int=\count305
+\g__tblr_array_int=\count306
+\l__tblr_key_count_int=\count307
+\l__tblr_key_quotient_int=\count308
+\l__tblr_key_quotient_two_int=\count309
+\l__tblr_key_remainder_int=\count310
+\g__tblr_data_str_value_count_int=\count311
+\rulewidth=\dimen175
+\l__tblr_strut_dp_dim=\dimen176
+\l__tblr_strut_ht_dim=\dimen177
+\g__tblr_cell_wd_dim=\dimen178
+\g__tblr_cell_ht_dim=\dimen179
+\g__tblr_cell_head_dim=\dimen180
+\g__tblr_cell_foot_dim=\dimen181
+\l__column_target_dim=\dimen182
+\l__tblr_caption_box=\box60
+\l__tblr_caption_left_box=\box61
+\l__tblr_row_head_box=\box62
+\l__tblr_row_foot_box=\box63
+\l__tblr_row_head_foot_dim=\dimen183
+\tablewidth=\dimen184
+\l__tblr_table_firsthead_box=\box64
+\l__tblr_table_middlehead_box=\box65
+\l__tblr_table_lasthead_box=\box66
+\l__tblr_table_firstfoot_box=\box67
+\l__tblr_table_middlefoot_box=\box68
+\l__tblr_table_lastfoot_box=\box69
+\l__tblr_remain_height_dim=\dimen185
+\l__tblr_long_from_int=\count312
+\l__tblr_long_to_int=\count313
+\l__tblr_curr_i_int=\count314
+\l__tblr_prev_i_int=\count315
+\l__tblr_table_page_int=\count316
+\l__tblr_table_head_box=\box70
+\l__tblr_table_foot_box=\box71
+\l__tblr_table_head_foot_dim=\dimen186
+\l__tblr_table_head_body_foot_dim=\dimen187
+\l__tblr_table_box=\box72
+\l__tblr_table_hlines_box=\box73
+\l__tblr_hline_box=\box74
+\l__tblr_row_box=\box75
+\l__tblr_col_o_wd_dim=\dimen188
+\l__tblr_col_b_wd_dim=\dimen189
+\l__tblr_hline_leftskip_dim=\dimen190
+\l__tblr_hline_rightskip_dim=\dimen191
+\l__tblr_row_ht_dim=\dimen192
+\l__tblr_row_dp_dim=\dimen193
+\l__tblr_row_abovesep_dim=\dimen194
+\l__tblr_row_belowsep_dim=\dimen195
+\l__tblr_row_vlines_box=\box76
+\l__tblr_vline_box=\box77
+\l__tblr_cell_box=\box78
+\l__row_upper_dim=\dimen196
+\l__row_lower_dim=\dimen197
+\l__row_vpace_dim=\dimen198
+\l__tblr_vline_aboveskip_dim=\dimen199
+\l__tblr_vline_belowskip_dim=\dimen256
+\l__tblr_cell_wd_dim=\dimen257
+\l__tblr_cell_ht_dim=\dimen258
+\l__tblr_diag_box=\box79
+) (c:/texlive/2024/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count317
+\calc@Bcount=\count318
+\calc@Adimen=\dimen259
+\calc@Bdimen=\dimen260
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count319
+\calc@Cskip=\skip60
+) (c:/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count320
+\l_MT_multwidth_dim=\dimen261
+\origjot=\skip61
+\l_MT_shortvdotswithinadjustabove_dim=\dimen262
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen263
+\l_MT_above_intertext_sep=\dimen264
+\l_MT_below_intertext_sep=\dimen265
+\l_MT_above_shortintertext_sep=\dimen266
+\l_MT_below_shortintertext_sep=\dimen267
+\xmathstrut@box=\box80
+\xmathstrut@dim=\dimen268
+) (c:/texlive/2024/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen269
+\pgfutil@tempdimb=\dimen270
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box81
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen271
+\Gin@req@width=\dimen272
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen273
+\pgf@y=\dimen274
+\pgf@xa=\dimen275
+\pgf@ya=\dimen276
+\pgf@xb=\dimen277
+\pgf@yb=\dimen278
+\pgf@xc=\dimen279
+\pgf@yc=\dimen280
+\pgf@xd=\dimen281
+\pgf@yd=\dimen282
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count321
+\c@pgf@countb=\count322
+\c@pgf@countc=\count323
+\c@pgf@countd=\count324
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count325
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count326
+\pgfsyssoftpath@bigbuffer@items=\count327
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen283
+\pgfmath@count=\count328
+\pgfmath@box=\box82
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count329
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen284
+\pgf@picmaxx=\dimen285
+\pgf@picminy=\dimen286
+\pgf@picmaxy=\dimen287
+\pgf@pathminx=\dimen288
+\pgf@pathmaxx=\dimen289
+\pgf@pathminy=\dimen290
+\pgf@pathmaxy=\dimen291
+\pgf@xx=\dimen292
+\pgf@xy=\dimen293
+\pgf@yx=\dimen294
+\pgf@yy=\dimen295
+\pgf@zx=\dimen296
+\pgf@zy=\dimen297
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen298
+\pgf@path@lasty=\dimen299
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen300
+\pgf@shorten@start@additional=\dimen301
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box83
+\pgf@hbox=\box84
+\pgf@layerbox@main=\box85
+\pgf@picture@serial@count=\count330
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen302
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen303
+\pgf@pt@y=\dimen304
+\pgf@pt@temp=\dimen305
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen306
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen307
+\pgf@sys@shading@range@num=\count331
+\pgf@shadingcount=\count332
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box86
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box87
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
+) (c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count333
+\pgfplotmarksize=\dimen312
+)
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikz@lastmovetox=\dimen317
+\tikz@lastmovetoy=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box88
+\tikz@figbox@bg=\box89
+\tikz@tempbox=\box90
+\tikz@tempbox@bg=\box91
+\tikztreelevel=\count334
+\tikznumberofchildren=\count335
+\tikznumberofcurrentchild=\count336
+\tikz@fig@count=\count337
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count338
+\pgfmatrixcurrentcolumn=\count339
+\pgf@matrix@numberofcolumns=\count340
+)
+\tikz@expandcount=\count341
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/latex/tikz-cd/tikz-cd.sty
+Package: tikz-cd 2021/05/04 v1.0 Commutative diagrams with TikZ
+ (c:/texlive/2024/texmf-dist/tex/generic/tikz-cd/tikzlibrarycd.code.tex (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen321
+\pgfarrowlength=\dimen322
+\pgfarrowwidth=\dimen323
+\pgfarrowlinewidth=\dimen324
+))) (c:/texlive/2024/texmf-dist/tex/latex/scalerel/scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretching of objects, relative to a reference object or in absolute terms
+ (c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count342
+)
+\thesrwidth=\skip62
+\thesrheight=\skip63
+\srblobheight=\skip64
+\srblobdepth=\skip65
+\mnxsrwidth=\skip66
+\LMex=\skip67
+\LMpt=\skip68
+) (c:/texlive/2024/texmf-dist/tex/latex/graphbox/graphbox.sty
+Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing box
+\Gin@box@box=\box92
+\Gin@box@width=\skip69
+\Gin@box@height=\skip70
+\Gin@box@raise=\skip71
+\Gin@box@hspace=\skip72
+\Gin@box@bwidth=\skip73
+\Gin@box@bheight=\skip74
+) (c:/texlive/2024/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count343
+\float@exts=\toks46
+\float@box=\box93
+\@float@everytoks=\toks47
+\@floatcapt=\box94
+) (c:/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+ (c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen325
+\ar@mcellbox=\box95
+\extrarowheight=\dimen326
+\NC@list=\toks48
+\extratabsurround=\skip75
+\backup@length=\skip76
+\ar@cellbox=\box96
+)
+\everycr=\toks49
+\minrowclearance=\skip77
+) (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip78
+\multirow@cntb=\count344
+\multirow@dima=\skip79
+\bigstrutjot=\dimen327
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count345
+\mult@box=\box97
+\multicol@leftmargin=\dimen328
+\c@unbalance=\count346
+\c@collectmore=\count347
+\doublecol@number=\count348
+\multicoltolerance=\count349
+\multicolpretolerance=\count350
+\full@width=\dimen329
+\page@free=\dimen330
+\premulticols=\dimen331
+\postmulticols=\dimen332
+\multicolsep=\skip80
+\multicolbaselineskip=\skip81
+\partial@page=\box98
+\last@line=\box99
+\mc@boxedresult=\box100
+\maxbalancingoverflow=\dimen333
+\mult@rightbox=\box101
+\mult@grightbox=\box102
+\mult@firstbox=\box103
+\mult@gfirstbox=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\@tempa=\box137
+\@tempa=\box138
+\@tempa=\box139
+\@tempa=\box140
+\c@minrows=\count351
+\c@columnbadness=\count352
+\c@finalcolumnbadness=\count353
+\last@try=\dimen334
+\multicolovershoot=\dimen335
+\multicolundershoot=\dimen336
+\mult@nat@firstbox=\box141
+\colbreak@box=\box142
+\mc@col@check@num=\count354
+) (c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen337
+\captionmargin=\dimen338
+\caption@leftmargin=\dimen339
+\caption@rightmargin=\dimen340
+\caption@width=\dimen341
+\caption@indent=\dimen342
+\caption@parindent=\dimen343
+\caption@hangindent=\dimen344
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count355
+\c@continuedfloat=\count356
+Package caption Info: float package is loaded.
+Package caption Info: scrextend package is loaded.
+\caption@addmargin@hsize=\dimen345
+\caption@addmargin@linewidth=\dimen346
+) (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count357
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count358
+) (c:/texlive/2024/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count359
+\c@@ppsavesec=\count360
+\c@@ppsaveapp=\count361
+) (c:/texlive/2024/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+) (c:/texlive/2024/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+ (c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)) (c:/texlive/2024/texmf-dist/tex/latex/gensymb/gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (c:/texlive/2024/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box143
+\fn@width=\dimen347
+) (c:/texlive/2024/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count362
+) (c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen348
+\Hy@linkcounter=\count363
+\Hy@pagecounter=\count364
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count365
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count366
+ (c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen349
+ (c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count367
+\Field@Width=\dimen350
+\Fld@charsize=\dimen351
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count368
+\c@Item=\count369
+\c@Hfootnote=\count370
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count371
+\c@bookmark@seq@number=\count372
+ (c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip82
+)
+(c:/texlive/2024/texmf-dist/tex/latex/libertine/libertineRoman.sty
+Package: libertineRoman 2024/04/23 (Bob Tennent) Supports Libertine Roman fonts for all LaTeX engines.
+ (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (c:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
+)
+\XKV@depth=\count373
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/texlive/2024/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 231.
+ (c:/texlive/2024/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)) (c:/texlive/2024/texmf-dist/tex/latex/libertine/libertineMono.sty
+Package: libertineMono 2024/04/20 (Bob Tennent) Supports Libertine Mono fonts for all LaTeX engines.
+ (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 116.
+ (c:/texlive/2024/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
+File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 116.
+)) (c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF on input line 116.
+ (c:/texlive/2024/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 116.
+) (c:/texlive/2024/texmf-dist/tex/latex/stix/stix.sty
+Package: stix 2018/04/17 v1.1.3-latex STIX fonts support package
+Now handling font encoding LS1 ...
+... no UTF-8 mapping file for font encoding LS1
+Now handling font encoding LS2 ...
+... no UTF-8 mapping file for font encoding LS2
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 76.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `normal' on input line 76.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> LS1/stix/m/it on input line 76.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `bold' on input line 76.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> LS1/stix/m/it on input line 76.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> LS1/stix/m/n on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> LS1/stix/m/n on input line 77.
+\symbold-operators=\mathgroup7
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 79.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS1' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 79.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LS1/stixscr/m/n on input line 79.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS1' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 79.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LS1/stixscr/m/n on input line 79.
+\symsymbols2=\mathgroup8
+\symsymbols3=\mathgroup9
+\symsymbols4=\mathgroup10
+\symintegrals=\mathgroup11
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 84.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 84.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LS2/stixex/m/n on input line 84.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 84.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LS2/stixex/m/n on input line 84.
+\symarrows1=\mathgroup12
+\symarrows2=\mathgroup13
+\symarrows3=\mathgroup14
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  LS1/stix/m/it --> LS1/stix/b/it on input line 88.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  LS1/stix/m/n --> LS1/stix/b/n on input line 89.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LS1/stixscr/m/n --> LS1/stixscr/b/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `symbols2' in version `bold'
+(Font)                  LS1/stixfrak/m/n --> LS1/stixfrak/b/n on input line 91.
+LaTeX Font Info:    Overwriting symbol font `symbols3' in version `bold'
+(Font)                  LS1/stixbb/m/n --> LS1/stixbb/b/n on input line 92.
+LaTeX Font Info:    Overwriting symbol font `symbols4' in version `bold'
+(Font)                  LS1/stixbb/m/it --> LS1/stixbb/b/it on input line 93.
+LaTeX Font Info:    Overwriting symbol font `integrals' in version `bold'
+(Font)                  LS2/stixcal/m/n --> LS2/stixcal/b/n on input line 94.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LS2/stixex/m/n --> LS2/stixex/b/n on input line 95.
+LaTeX Font Info:    Overwriting symbol font `arrows1' in version `bold'
+(Font)                  LS1/stixsf/m/n --> LS1/stixsf/b/n on input line 96.
+LaTeX Font Info:    Overwriting symbol font `arrows2' in version `bold'
+(Font)                  LS1/stixsf/m/it --> LS1/stixsf/b/it on input line 97.
+LaTeX Font Info:    Overwriting symbol font `arrows3' in version `bold'
+(Font)                  LS2/stixtt/m/n --> LS2/stixtt/b/n on input line 98.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 102.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 108.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 109.
+LaTeX Info: Redefining \yen on input line 456.
+LaTeX Info: Redefining \circledR on input line 458.
+LaTeX Info: Redefining \checkmark on input line 460.
+LaTeX Info: Redefining \maltese on input line 461.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 698.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 699.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 700.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 701.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 702.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 703.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 704.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 705.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 707.
+LaTeX Font Info:    Redeclaring math accent \check on input line 708.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 716.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 728.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 729.
+LaTeX Info: Redefining \vdots on input line 1518.
+LaTeX Info: Redefining \cdots on input line 1522.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 1978.
+LaTeX Info: Redefining \not on input line 2144.
+) (c:/texlive/2024/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks52
+\footnotemargin=\dimen352
+\@outputbox@depth=\dimen353
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765.
+) (c:/texlive/2024/texmf-dist/tex/latex/kotex-utf/dhucs-nanumfont.sty
+Package: dhucs-nanumfont 
+ (c:/texlive/2024/texmf-dist/tex/latex/kotex-utf/dhucs.sty
+Package: dhucs 2015/08/21 v5.4 typesetting UTF-8 Korean documents
+)) (./Configs/thmstyles.tex (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thmtools.sty
+Package: thmtools 2023/05/04 v0.76
+\thmt@toks=\toks53
+\c@thmt@dummyctr=\count374
+ (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thm-patch.sty
+Package: thm-patch 2023/05/04 v0.76
+ (c:/texlive/2024/texmf-dist/tex/latex/thmtools/parseargs.sty
+Package: parseargs 2023/05/04 v0.76
+\@parsespec=\toks54
+)) (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thm-kv.sty
+Package: thm-kv 2023/05/04 v0.76
+Package thm-kv Info: Theorem names will be uppercased on input line 42.
+Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 158.
+) (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+Package: thm-autoref 2023/05/04 v0.76
+ (c:/texlive/2024/texmf-dist/tex/latex/thmtools/aliasctr.sty
+Package: aliasctr 2023/05/04 v0.76
+)) (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thm-listof.sty
+Package: thm-listof 2023/05/04 v0.76
+) (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thm-restate.sty
+Package: thm-restate 2023/05/04 v0.76
+) (c:/texlive/2024/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
+Package: thm-amsthm 2023/05/04 v0.76
+\thmt@style@headstyle=\toks55
+)) (c:/texlive/2024/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+) (c:/texlive/2024/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+ (c:/texlive/2024/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (c:/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (c:/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count375
+Package zref Info: New property: abspage on input line 67.
+) (c:/texlive/2024/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip83
+\c@mdf@globalstyle@cnt=\count376
+\mdf@skipabove@length=\skip84
+\mdf@skipbelow@length=\skip85
+\mdf@leftmargin@length=\skip86
+\mdf@rightmargin@length=\skip87
+\mdf@innerleftmargin@length=\skip88
+\mdf@innerrightmargin@length=\skip89
+\mdf@innertopmargin@length=\skip90
+\mdf@innerbottommargin@length=\skip91
+\mdf@splittopskip@length=\skip92
+\mdf@splitbottomskip@length=\skip93
+\mdf@outermargin@length=\skip94
+\mdf@innermargin@length=\skip95
+\mdf@linewidth@length=\skip96
+\mdf@innerlinewidth@length=\skip97
+\mdf@middlelinewidth@length=\skip98
+\mdf@outerlinewidth@length=\skip99
+\mdf@roundcorner@length=\skip100
+\mdf@footenotedistance@length=\skip101
+\mdf@userdefinedwidth@length=\skip102
+\mdf@needspace@length=\skip103
+\mdf@frametitleaboveskip@length=\skip104
+\mdf@frametitlebelowskip@length=\skip105
+\mdf@frametitlerulewidth@length=\skip106
+\mdf@frametitleleftmargin@length=\skip107
+\mdf@frametitlerightmargin@length=\skip108
+\mdf@shadowsize@length=\skip109
+\mdf@extratopheight@length=\skip110
+\mdf@subtitleabovelinewidth@length=\skip111
+\mdf@subtitlebelowlinewidth@length=\skip112
+\mdf@subtitleaboveskip@length=\skip113
+\mdf@subtitlebelowskip@length=\skip114
+\mdf@subtitleinneraboveskip@length=\skip115
+\mdf@subtitleinnerbelowskip@length=\skip116
+\mdf@subsubtitleabovelinewidth@length=\skip117
+\mdf@subsubtitlebelowlinewidth@length=\skip118
+\mdf@subsubtitleaboveskip@length=\skip119
+\mdf@subsubtitlebelowskip@length=\skip120
+\mdf@subsubtitleinneraboveskip@length=\skip121
+\mdf@subsubtitleinnerbelowskip@length=\skip122
+ (c:/texlive/2024/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box144
+\mdf@footnotebox=\box145
+\mdf@splitbox@one=\box146
+\mdf@splitbox@two=\box147
+\mdf@splitbox@save=\box148
+\mdfsplitboxwidth=\skip123
+\mdfsplitboxtotalwidth=\skip124
+\mdfsplitboxheight=\skip125
+\mdfsplitboxdepth=\skip126
+\mdfsplitboxtotalheight=\skip127
+\mdfframetitleboxwidth=\skip128
+\mdfframetitleboxtotalwidth=\skip129
+\mdfframetitleboxheight=\skip130
+\mdfframetitleboxdepth=\skip131
+\mdfframetitleboxtotalheight=\skip132
+\mdffootnoteboxwidth=\skip133
+\mdffootnoteboxtotalwidth=\skip134
+\mdffootnoteboxheight=\skip135
+\mdffootnoteboxdepth=\skip136
+\mdffootnoteboxtotalheight=\skip137
+\mdftotallinewidth=\skip138
+\mdfboundingboxwidth=\skip139
+\mdfboundingboxtotalwidth=\skip140
+\mdfboundingboxheight=\skip141
+\mdfboundingboxdepth=\skip142
+\mdfboundingboxtotalheight=\skip143
+\mdf@freevspace@length=\skip144
+\mdf@horizontalwidthofbox@length=\skip145
+\mdf@verticalmarginwhole@length=\skip146
+\mdf@horizontalspaceofbox=\skip147
+\mdfsubtitleheight=\skip148
+\mdfsubsubtitleheight=\skip149
+\c@mdfcountframes=\count377
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count378
+\c@mdf@env@i=\count379
+\c@mdf@env@ii=\count380
+\c@mdf@zref@counter=\count381
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+Package thmtools Info: Key `numbered' (with value `no')
+(thmtools)             is not a known style key.
+(thmtools)             Will pass this to every \declaretheorem
+(thmtools)             that uses `style=thmproofbox' on input line 29.
+Package thmtools Info: Key `qed' (with value `\qedsymbol ')
+(thmtools)             is not a known style key.
+(thmtools)             Will pass this to every \declaretheorem
+(thmtools)             that uses `style=thmproofbox' on input line 29.
+\c@defn=\count382
+\c@claim=\count383
+ (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
+ (c:/texlive/2024/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks56
+\verbatim@line=\toks57
+\verbatim@in@stream=\read3
+) (c:/texlive/2024/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (c:/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box149
+\tcb@upperbox=\box150
+\tcb@lowerbox=\box151
+\tcb@phantombox=\box152
+\c@tcbbreakpart=\count384
+\c@tcblayer=\count385
+\c@tcolorbox@number=\count386
+\l__tcobox_tmpa_box=\box153
+\l__tcobox_tmpa_dim=\dimen354
+\tcb@temp=\box154
+\tcb@temp=\box155
+\tcb@temp=\box156
+\tcb@temp=\box157
+ (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.4.1'
+\c@tcbrastercolumn=\count387
+\c@tcbrasterrow=\count388
+\c@tcbrasternum=\count389
+\c@tcbraster=\count390
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.4.1'
+(c:/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (c:/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (c:/texlive/2024/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box158
+)) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.4.1'
+)) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.4.1'
+(c:/texlive/2024/texmf-dist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box159
+\tcb@totalupperbox=\box160
+\tcb@totallowerbox=\box161
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.4.1'
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.4.1'
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.4.1'
+\tcbfitdim=\dimen355
+\tcb@lowerfitdim=\dimen356
+\tcb@upperfitdim=\dimen357
+\tcb@cur@hbadness=\count391
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.4.1'
+(c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.4.1'
+(c:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count392
+\lst@gtempboxa=\box162
+\lst@token=\toks58
+\lst@length=\count393
+\lst@currlwidth=\dimen358
+\lst@column=\count394
+\lst@pos=\count395
+\lst@lostspace=\dimen359
+\lst@width=\dimen360
+\lst@newlines=\count396
+\lst@lineno=\count397
+\lst@maxwidth=\dimen361
+ (c:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count398
+\lst@skipnumbers=\count399
+\lst@framebox=\box163
+) (c:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.4.1'
+(c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.4.1'
+)
+\c@tcblisting=\count400
+)) (c:/texlive/2024/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+)) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.4.1'
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.4.1'
+) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.4.1'
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.4.1'
+)))) (./Configs/formats.tex (c:/texlive/2024/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+ (c:/texlive/2024/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip150
+\afterepigraphskip=\skip151
+\epigraphwidth=\skip152
+\epigraphrule=\skip153
+) (c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/12/09 v4.5 Extensive control of page headers and footers
+\f@nch@headwidth=\skip154
+\f@nch@O@elh=\skip155
+\f@nch@O@erh=\skip156
+\f@nch@O@olh=\skip157
+\f@nch@O@orh=\skip158
+\f@nch@O@elf=\skip159
+\f@nch@O@erf=\skip160
+\f@nch@O@olf=\skip161
+\f@nch@O@orf=\skip162
+) (c:/texlive/2024/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
+)
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 15.
+ (c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <54.2025> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 15.
+ (c:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box164
+\beforetitleunit=\skip163
+\aftertitleunit=\skip164
+\ttl@plus=\dimen362
+\ttl@minus=\dimen363
+\ttl@toksa=\toks59
+\titlewidth=\dimen364
+\titlewidthlast=\dimen365
+\titlewidthfirst=\dimen366
+) (c:/texlive/2024/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip165
+\cftbeforetoctitleskip=\skip166
+\cftaftertoctitleskip=\skip167
+\cftbeforepartskip=\skip168
+\cftpartnumwidth=\skip169
+\cftpartindent=\skip170
+\cftbeforechapskip=\skip171
+\cftchapindent=\skip172
+\cftchapnumwidth=\skip173
+\cftbeforesecskip=\skip174
+\cftsecindent=\skip175
+\cftsecnumwidth=\skip176
+\cftbeforesubsecskip=\skip177
+\cftsubsecindent=\skip178
+\cftsubsecnumwidth=\skip179
+\cftbeforesubsubsecskip=\skip180
+\cftsubsubsecindent=\skip181
+\cftsubsubsecnumwidth=\skip182
+\cftbeforeparaskip=\skip183
+\cftparaindent=\skip184
+\cftparanumwidth=\skip185
+\cftbeforesubparaskip=\skip186
+\cftsubparaindent=\skip187
+\cftsubparanumwidth=\skip188
+\cftbeforeloftitleskip=\skip189
+\cftafterloftitleskip=\skip190
+\cftbeforefigskip=\skip191
+\cftfigindent=\skip192
+\cftfignumwidth=\skip193
+\c@lofdepth=\count401
+\c@lotdepth=\count402
+\cftbeforelottitleskip=\skip194
+\cftafterlottitleskip=\skip195
+\cftbeforetabskip=\skip196
+\cfttabindent=\skip197
+\cfttabnumwidth=\skip198
+))
+LaTeX Font Info:    Trying to load font information for T1+stix on input line 10.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/t1stix.fd
+File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
+) (./Essence of Undergraduate Physical Chemistry 1.aux (./Chapters/Ch1.aux) (./Chapters/Ch2.aux) (./Chapters/Ch3.aux) (./Chapters/Ch4.aux) (./Chapters/Ch5.aux) (./Chapters/Ch6.aux))
+\openout1 = `"Essence of Undergraduate Physical Chemistry 1.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 10.
+ (c:/texlive/2024/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LS1+stix on input line 10.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stix.fd
+File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LS2+stix on input line 10.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stix.fd
+File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: b5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside 
+* h-part:(L,W,R)=(45.5244pt, 358.50475pt, 68.2866pt)
+* v-part:(T,H,B)=(79.66771pt, 551.98347pt, 79.66771pt)
+* \paperwidth=500.7685pt
+* \paperheight=711.3189pt
+* \textwidth=358.50475pt
+* \textheight=551.98347pt
+* \oddsidemargin=1.70715pt
+* \evensidemargin=-3.98338pt
+* \topmargin=-25.16977pt
+* \headheight=15.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.09998pt plus 3.5996pt minus 1.80037pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Command `\dddot' is already robust on input line 10.
+LaTeX Info: Command `\ddddot' is already robust on input line 10.
+(c:/texlive/2024/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+) (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count403
+\scratchdimen=\dimen367
+\scratchbox=\box165
+\nofMPsegments=\count404
+\nofMParguments=\count405
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count406
+\MPscratchDim=\dimen368
+\MPnumerator=\count407
+\makeMPintoPDFobject=\count408
+\everyMPtoPDFconversion=\toks61
+) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup15
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/stix/m/n --> TS1/stix/b/n on input line 10.
+Package gensymb Info: Math companion symbols declared on input line 10.
+LaTeX Info: Redefining \degree on input line 10.
+LaTeX Info: Redefining \celsius on input line 10.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 10.
+LaTeX Info: Redefining \ohm on input line 10.
+Package gensymb Info: Using \textohm for \ohm on input line 10.
+Package gensymb Info: Using \textmu for \micro on input line 10.
+Package hyperref Info: Link coloring ON on input line 10.
+ (./Essence of Undergraduate Physical Chemistry 1.out) (./Essence of Undergraduate Physical Chemistry 1.out)
+\@outlinefile=\write4
+\openout4 = `"Essence of Undergraduate Physical Chemistry 1.out"'.
+
+\c@mv@tabular=\count409
+\c@mv@boldtabular=\count410
+\c@lstlisting=\count411
+LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <22.39206> not available
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 19.
+LaTeX Font Info:    Trying to load font information for LS1+stixscr on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixscr.fd
+File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixex on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixex.fd
+File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixfrak.fd
+File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixbb on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixbb.fd
+File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixcal on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixcal.fd
+File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixsf on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls1stixsf.fd
+File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixtt on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ls2stixtt.fd
+File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
+)
+LaTeX Font Info:    Trying to load font information for TS1+stix on input line 23.
+ (c:/texlive/2024/texmf-dist/tex/latex/stix/ts1stix.fd
+File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
+)
+
+[1
+
+
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/stix/stix-t1.enc}]
+
+[2
+
+]
+LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <12.96002> not available
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <9> not available
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 44.
+LaTeX Font Info:    Calculating math sizes for size <7.50009> on input line 44.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <7.50009> not available
+(Font)              size <8> substituted on input line 44.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <3.75005> not available
+(Font)              size <5> substituted on input line 44.
+
+
+
+[3{c:/texlive/2024/texmf-dist/fonts/enc/dvips/stix/stix-ts1.enc}]
+
+[4
+
+]
+LaTeX Font Info:    Font shape `LUC/nanummj/m/it' in size <9> not available
+(Font)              Font shape `LUC/nanummj/m/sl' tried instead on input line 67.
+
+
+[5
+
+]
+
+[6
+
+] (./Essence of Undergraduate Physical Chemistry 1.toc
+
+[7])
+\tf@toc=\write5
+\openout5 = `"Essence of Undergraduate Physical Chemistry 1.toc"'.
+
+
+
+[8]
+\openout2 = `Chapters/Ch1.aux'.
+
+ (./Chapters/Ch1.tex
+장 1.
+LaTeX Font Info:    Trying to load font information for LUC+nanumgt on input line 4.
+(c:/texlive/2024/texmf-dist/tex/latex/nanumtype1/lucnanumgt.fd
+File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
+)
+Package hyperref Info: bookmark level for unknown defn defaults to 0 on input line 4.
+Package hyperref Info: bookmark level for unknown obs defaults to 0 on input line 12.
+Package hyperref Info: bookmark level for unknown thm defaults to 0 on input line 30.
+
+
+[1
+
+
+
+{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+Package hyperref Info: bookmark level for unknown cor defaults to 0 on input line 57.
+Package hyperref Info: bookmark level for unknown law defaults to 0 on input line 64.
+Package hyperref Info: bookmark level for unknown warn defaults to 0 on input line 68.
+
+
+[2]
+Package hyperref Info: bookmark level for unknown rem defaults to 0 on input line 72.
+Package hyperref Info: bookmark level for unknown replacementproof defaults to 0 on input line 81.
+
+pdfTeX warning (ext4): destination with the same identifier (name{obs.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111 ...    \begin{obs}[Maxwell-Boltzmann 분포]
+                                                  
+
+[3
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[4]
+pdfTeX warning (ext4): destination with the same identifier (name{obs.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.160 ...egin{obs}[기체 분자의 평균 속력]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.167 ...egin{obs}[기체 분자의 최빈 속력]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185             \begin{obs}[충돌 빈도]
+                                            
+Underfull \vbox (badness 2253) has occurred while \output is active []
+
+
+
+[5]
+
+[6]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.201             \begin{defn}[압축도]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{obs.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.207 ...in{obs}[실제 기체의 상태방정식]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.215                 \begin
+                            {equation*}
+pdfTeX warning (ext4): destination with the same identifier (name{obs.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.220 ...   \begin{obs}[비리얼 상태방정식]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.228                     $
+                           V_m \rightarrow \infty$ 이면 $\displaystyle\fra...
+pdfTeX warning (ext4): destination with the same identifier (name{obs.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.238             �
+                   ��체 분자 자체의 반발력으로 인해, 기체 분...
+
+[7
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.273             \begin{defn}[환산 변수]
+                                             
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+
+
+[8])
+
+[9]
+\openout2 = `Chapters/Ch2.aux'.
+
+ (./Chapters/Ch2.tex
+
+[10
+
+
+
+
+]
+장 2.
+
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4             \begin{defn}[계와 주위]
+                                           
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9             \begin{defn}[계의 종류]
+                                           
+
+[11]
+LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <7.50009> not available
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 41.
+
+pdfTeX warning (ext4): destination with the same identifier (name{law.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 ...        \begin{law}[열역학 제1 법칙]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{law.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 ...gin{law}[열역학 제1 법칙, 미분형]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.62             \begin{defn}[일]
+                                  
+
+[12]
+pdfTeX warning (ext4): destination with the same identifier (name{law.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100 ...     \begin{law}[팽창으로 인한 일]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.112             \par \begin{defn}[가역 변화]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.12}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 ...egin{defn}[열평형과 역학적 평형]
+                                                  
+
+[13]
+Package hyperref Info: bookmark level for unknown fact defaults to 0 on input line 155.
+
+
+[14]
+
+[15]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179             \begin{defn}[엔탈피]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{obs.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.200 ...엔탈피 변화와 등압 열의 관계]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.214             \begin{defn}[등압 열용량]
+                                                
+
+[16
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{obs.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.233 ...�� 및 등적 열용량 사이의 관계]
+                                                  
+
+[17]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.241 ...gin{defn}[발열 반응과 흡열 반응]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.247             \begin{defn}[표준 상태]
+                                             
+pdfTeX warning (ext4): destination with the same identifier (name{defn.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.250 ...    \begin{defn}[표준 엔탈피 변화]
+                                                  
+
+[18
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.301             \begin{defn}[반응 엔탈피]
+                                                
+pdfTeX warning (ext4): destination with the same identifier (name{defn.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.314             \begin{defn}[표준 상태]
+                                             
+Underfull \vbox (badness 2564) has occurred while \output is active []
+
+
+
+[19]
+pdfTeX warning (ext4): destination with the same identifier (name{law.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.345         \begin{law}[Kirchhoff의 법칙]
+                                              \label{kirlaw}
+
+[20]
+
+[21]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.381         \begin{defn}[내부 압력]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.398         \begin{defn}[열팽창률]
+                                        
+pdfTeX warning (ext4): destination with the same identifier (name{defn.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.404         \begin{defn}[등온 압축률]
+                                            
+
+[22
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[23]
+
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[25
+
+])
+
+[26]
+\openout2 = `Chapters/Ch3.aux'.
+
+ (./Chapters/Ch3.tex
+장 3.
+
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4         \begin{defn}[엔트로피]
+                                      
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21         \begin{defn}[엔트로피 변화]
+                                              
+
+[27
+
+
+
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 ... 미시적 정의: 통계적 엔트로피]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 ... \begin{obs}[엔트로피는 상태함수]
+                                                  
+
+[28]
+<Images/CarnotCycle.png, id=714, 147.56451pt x 98.45593pt>
+File: Images/CarnotCycle.png Graphic file (type png)
+<use Images/CarnotCycle.png>
+Package pdftex.def Info: Images/CarnotCycle.png  used on input line 81.
+(pdftex.def)             Requested size: 295.12827pt x 196.91138pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{obs.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.96         \begin{obs}\label
+                              {carnotc}
+
+[29 <./Images/CarnotCycle.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.108         \begin{defn}[열기관의 효율]
+                                               
+
+[30]
+pdfTeX warning (ext4): destination with the same identifier (name{law.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.142         \begin{law}[Clausius 부등식]
+                                             \label{clausiusineq}
+
+[31]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.166 ...상태 변화의 몰 엔트로피 변화]
+                                                  \label{trsentr}
+pdfTeX warning (ext4): destination with the same identifier (name{cor.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.177 ...cor}[등압 조건에서의 엔트로피]
+                                                  \label{entisobar}
+
+[32
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.209 ... \begin{defn}[표준 반응 엔트로피]
+                                                  
+
+[33
+
+]
+
+[34]
+pdfTeX warning (ext4): destination with the same identifier (name{cor.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.241         \begin{cor}\label
+                               {helmspon}
+pdfTeX warning (ext4): destination with the same identifier (name{cor.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.247         \begin{cor}\label
+                               {gibbspon}
+pdfTeX warning (ext4): destination with the same identifier (name{defn.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.253         \begin{defn}[Helmholtz 에너지]
+                                               
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.259         \begin{defn}[Gibbs 에너지]
+                                           
+
+[35
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.280 ...egin{defn}[표준 반응 Gibbs 에너지]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.287 ...egin{defn}[표준 반응 Gibbs 에너지]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{law.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.294         \begin{law}[Born 방정식]
+                                         
+
+[36]
+pdfTeX warning (ext4): destination with the same identifier (name{cor.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.341         \begin{cor}\label
+                               {gibbspartial}
+Underfull \vbox (badness 3312) has occurred while \output is active []
+
+
+
+[37
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{cor.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.366         \begin
+                    {equation*})
+
+[38]
+\openout2 = `Chapters/Ch4.aux'.
+
+ (./Chapters/Ch4.tex
+장 4.
+
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3         \begin{defn}[상(Phase)]
+                                    
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9         \par \begin{defn}[상태 변화]
+                                            
+pdfTeX warning (ext4): destination with the same identifier (name{defn.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16         \par \begin{defn}[준안정 상]
+                                             
+
+[39
+
+
+
+
+]
+<Images/PhaseDiag1.png, id=828, 720.5491pt x 484.81125pt>
+File: Images/PhaseDiag1.png Graphic file (type png)
+<use Images/PhaseDiag1.png>
+Package pdftex.def Info: Images/PhaseDiag1.png  used on input line 38.
+(pdftex.def)             Requested size: 288.21454pt x 193.92105pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{defn.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 ...egin{defn}[액체-기체 사이의 논의]
+                                                  
+
+[40 <./Images/PhaseDiag1.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 ...n{defn}[임계 상태와 관련한 서술]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.57 ...egin{defn}[고체-액체 사이의 논의]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66         \begin{defn}[삼중점]
+                                    
+
+[41]
+
+[42]
+Overfull \hbox (2.15605pt too wide) in paragraph at lines 122--126
+\LUC/nanummj/m/n/9/b5 0\LUC/nanummj/m/n/9/b7 |\LUC/nanummj/m/n/9/c1 ^^\\T1/stix/m/n/9 , $[]$[][][][][], \LUC/nanummj/m/n/9/c8 ^^U\LUC/nanummj/m/n/9/c0 � \LUC/nanummj/m/n/9/c9 �
+ []
+
+
+
+[43
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{law.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.149         \begin{law}[Clapeyron 등식]
+                                           
+pdfTeX warning (ext4): destination with the same identifier (name{law.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.178 ...   \begin{law}[Clausius-Clapeyron 등식]
+                                                  
+
+[44])
+
+[45]
+\openout2 = `Chapters/Ch5.aux'.
+
+ (./Chapters/Ch5.tex
+
+[46
+
+
+
+
+]
+장 5.
+
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4         \begin{defn}[부분 몰 부피]
+                                           
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 ...defn}[혼합물에서의 화학 퍼텐셜]
+                                                  
+Underfull \vbox (badness 5345) has occurred while \output is active []
+
+
+
+[47]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 ...{defn}[혼합물에서의 Gibbs 에너지]
+                                                  \label{gibbsreal}
+pdfTeX warning (ext4): destination with the same identifier (name{law.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49         \begin{law}[Gibbs-Duhem 등식]
+                                            \label{gibbsduhem}
+
+[48]
+pdfTeX warning (ext4): destination with the same identifier (name{law.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.75         \begin{law}[혼합 Gibbs 에너지]
+                                                
+pdfTeX warning (ext4): destination with the same identifier (name{law.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106         \begin{law}[Raoult 법칙]
+                                        
+
+[49]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111         \begin{defn}[이상 용액]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{law.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.117         \begin{law}[Henry 법칙]
+                                       
+pdfTeX warning (ext4): destination with the same identifier (name{defn.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.123         \begin{defn}[이상 묽은 용액]
+                                                
+
+[50]
+Overfull \hbox (20.90826pt too wide) in paragraph at lines 133--137
+\LUC/nanummj/m/n/9/c6 @ \T1/stix/m/n/9 B\LUC/nanummj/m/n/9/ac ^^@ \LUC/nanummj/m/n/9/d6 <\LUC/nanummj/m/n/9/d5 i\LUC/nanummj/m/n/9/b4   \LUC/nanummj/m/n/9/b5 L\T1/stix/m/n/9 , \LUC/nanummj/m/n/9/d6 <\LUC/nanummj/m/n/9/d5 i \LUC/nanummj/m/n/9/c8 ^^D\LUC/nanummj/m/n/9/c5 �\LUC/nanummj/m/n/9/b2 � $\LS1/stix/m/it/9 G[] \LS1/stix/m/n/9 = \LS1/stix/m/it/9 n[]^^V[] \LS1/stix/m/n/9 + \LS1/stix/m/it/9 n[]^^V[]$\LUC/nanummj/m/n/9/b9 | �\LUC/nanummj/m/n/9/c8 q\LUC/nanummj/m/n/9/d5 X\LUC/nanummj/m/n/9/ac �\T1/stix/m/n/9 , \LUC/nanummj/m/n/9/d6 <\LUC/nanummj/m/n/9/d5 i \LUC/nanummj/m/n/9/c7 t\LUC/nanummj/m/n/9/d6 �\LUC/nanummj/m/n/9/c5 �\LUC/nanummj/m/n/9/b2 � $\LS1/stix/m/it/9 G[] \LS1/stix/m/n/9 = \LS1/stix/m/it/9 n[] [] \LS1/stix/m/n/9 +
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{obs.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 ...[이상 용액의 혼합 Gibbs 에너지]
+                                                  \label{reggibbs}
+pdfTeX warning (ext4): destination with the same identifier (name{obs.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.143 ...bs}[이상 용액의 혼합 엔트로피]
+                                                  
+<Images/xlnx.png, id=921, 331.2375pt x 192.72pt>
+File: Images/xlnx.png Graphic file (type png)
+<use Images/xlnx.png>
+Package pdftex.def Info: Images/xlnx.png  used on input line 159.
+(pdftex.def)             Requested size: 161.32602pt x 93.86018pt.
+LaTeX Font Info:    Calculating math sizes for size <8.21255> on input line 160.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <4.10628> not available
+(Font)              size <5> substituted on input line 160.
+
+<Images/minusxlnx.png, id=924, 331.2375pt x 203.76125pt>
+File: Images/minusxlnx.png Graphic file (type png)
+<use Images/minusxlnx.png>
+Package pdftex.def Info: Images/minusxlnx.png  used on input line 163.
+(pdftex.def)             Requested size: 161.32602pt x 99.2376pt.
+
+Overfull \hbox (1.50299pt too wide) in paragraph at lines 158--166
+[][] [] 
+ []
+
+
+
+[51
+
+ <./Images/xlnx.png> <./Images/minusxlnx.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.172         \begin{defn}[초과 함수]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.180         \begin{defn}[정규 용액]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{obs.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.185 ...[정규 용액에서의 초과 엔탈피]
+                                                  \label{excessenth}
+pdfTeX warning (ext4): destination with the same identifier (name{obs.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.193 ...[정규 용액의 혼합 Gibbs 에너지]
+                                                  \label{excessgibbs}
+pdfTeX warning (ext4): destination with the same identifier (name{defn.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203         \begin{defn}[총괄성]
+                                     
+
+[52]
+<Images/chempotcoll.png, id=949, 873.47017pt x 693.10667pt>
+File: Images/chempotcoll.png Graphic file (type png)
+<use Images/chempotcoll.png>
+Package pdftex.def Info: Images/chempotcoll.png  used on input line 218.
+(pdftex.def)             Requested size: 349.38188pt x 277.23775pt.
+
+
+[53 <./Images/chempotcoll.png>]
+
+[54]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.278 ... \begin{defn}[삼투 현상과 삼투압]
+                                                  
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[55]
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 325--344
+
+ []
+
+<Images/lgphasediag.png, id=979, 47.59824pt x 34.41353pt>
+File: Images/lgphasediag.png Graphic file (type png)
+<use Images/lgphasediag.png>
+Package pdftex.def Info: Images/lgphasediag.png  used on input line 361.
+(pdftex.def)             Requested size: 380.78491pt x 275.30737pt.
+
+Overfull \hbox (22.28017pt too wide) in paragraph at lines 361--362
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--363
+
+ []
+
+
+
+[57
+
+]
+<Images/lgphasediaglever.png, id=987, 52.45827pt x 37.92732pt>
+File: Images/lgphasediaglever.png Graphic file (type png)
+<use Images/lgphasediaglever.png>
+Package pdftex.def Info: Images/lgphasediaglever.png  used on input line 369.
+(pdftex.def)             Requested size: 367.2068pt x 265.49051pt.
+
+Overfull \hbox (8.70206pt too wide) in paragraph at lines 369--370
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[58 <./Images/lgphasediag.png>]
+pdfTeX warning (ext4): destination with the same identifier (name{law.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.390         \begin{law}[지레 규칙]
+                                        
+
+[59 <./Images/lgphasediaglever.png>]
+<Images/waterethanolazeo.png, id=1004, 578.16pt x 433.62pt>
+File: Images/waterethanolazeo.png Graphic file (type png)
+<use Images/waterethanolazeo.png>
+Package pdftex.def Info: Images/waterethanolazeo.png  used on input line 406.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--408
+
+ []
+
+
+
+[60 <./Images/waterethanolazeo.png>]
+<Images/lldiaguc.png, id=1013, 31.84431pt x 18.60384pt>
+File: Images/lldiaguc.png Graphic file (type png)
+<use Images/lldiaguc.png>
+Package pdftex.def Info: Images/lldiaguc.png  used on input line 419.
+(pdftex.def)             Requested size: 382.13068pt x 223.2453pt.
+
+Overfull \hbox (23.62593pt too wide) in paragraph at lines 419--420
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--421
+
+ []
+
+
+Underfull \vbox (badness 5862) has occurred while \output is active []
+
+
+
+[61 <./Images/lldiaguc.png>]
+
+[62]
+<Images/eutectic.png, id=1027, 33.67636pt x 33.67636pt>
+File: Images/eutectic.png Graphic file (type png)
+<use Images/eutectic.png>
+Package pdftex.def Info: Images/eutectic.png  used on input line 452.
+(pdftex.def)             Requested size: 250.95222pt x 250.98471pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--454
+
+ []
+
+<Images/reactsys.png, id=1030, 32.4571pt x 26.84723pt>
+File: Images/reactsys.png Graphic file (type png)
+<use Images/reactsys.png>
+Package pdftex.def Info: Images/reactsys.png  used on input line 464.
+(pdftex.def)             Requested size: 357.02718pt x 295.31868pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--466
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[63
+
+ <./Images/eutectic.png>]
+
+[64 <./Images/reactsys.png>]
+<Images/ternary.jpg, id=1046, 199.4652pt x 175.90518pt>
+File: Images/ternary.jpg Graphic file (type jpg)
+<use Images/ternary.jpg>
+Package pdftex.def Info: Images/ternary.jpg  used on input line 475.
+(pdftex.def)             Requested size: 215.10503pt x 189.70634pt.
+<Images/wtcternary.jpg, id=1050, 54.34705pt x 44.0847pt>
+File: Images/wtcternary.jpg Graphic file (type jpg)
+<use Images/wtcternary.jpg>
+Package pdftex.def Info: Images/wtcternary.jpg  used on input line 482.
+(pdftex.def)             Requested size: 215.10503pt x 174.49652pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[65
+
+ <./Images/ternary.jpg>]
+
+[66 <./Images/wtcternary.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.518 ...에서 용질의 표준 화학 퍼텐셜]
+                                                  
+
+[67
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.541 ...�제 용액에서의 용질의 활동도]
+                                                  
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
+
+ []
+
+
+
+[68]
+pdfTeX warning (ext4): destination with the same identifier (name{obs.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.583         \begin{obs}[Margules 등식]
+                                          
+
+[69]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.630 ...    \begin{defn}[평균 활동도 계수]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{law.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.643 ... \begin{law}[Debye-Hückel 한계 법칙]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.649         \begin{defn}[이온 세기]
+                                         
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[70]
+pdfTeX warning (ext4): destination with the same identifier (name{law.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.660 ...egin{law}[확장된 Debye-Hückel 법칙]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{law.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.666         \begin{law}[Davies 등식]
+                                        
+pdfTeX warning (ext4): destination with the same identifier (name{defn.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.674         \begin{defn}[퓨가시티]
+                                        )
+
+[71]
+\openout2 = `Chapters/Ch6.aux'.
+
+ (./Chapters/Ch6.tex
+
+[72
+
+
+
+
+]
+장 6.
+
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8         \begin{defn}[반응 Gibbs 에너지]
+                                                \label{rxngibbs}
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[74]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.82         \begin{defn}[반응 지수]
+                                        
+pdfTeX warning (ext4): destination with the same identifier (name{obs.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.89 ...ibbs 에너지와 반응 지수의 관계]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.95 ...\begin{obs}[표준 반응 Gibbs 에너지]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{defn.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.101 ... \begin{defn}[열역학적 평형 상수]
+                                                  
+
+[75]
+pdfTeX warning (ext4): destination with the same identifier (name{law.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.122 ... 반응 Gibbs 에너지 사이의 관계]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135         \begin{obs}[압력 평형 상수]
+                                               
+
+[76]
+
+[77]
+pdfTeX warning (ext4): destination with the same identifier (name{law.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165         \begin{law}[Le Chatelier의 원리]
+                                                 
+
+[78
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{law.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.213         \begin{law}[van 't Hoff 등식]
+                                             
+
+[79]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.271         \begin{defn}[반쪽 반응]
+                                         
+
+[80
+
+]
+<Images/daniell.jpg, id=1166, 195.7046pt x 201.46062pt>
+File: Images/daniell.jpg Graphic file (type jpg)
+<use Images/daniell.jpg>
+Package pdftex.def Info: Images/daniell.jpg  used on input line 283.
+(pdftex.def)             Requested size: 250.95222pt x 258.33287pt.
+
+
+[81 <./Images/daniell.jpg>]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.295 ...n}[전지를 나타낼 때 쓰는 기호]
+                                                  
+
+[82]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.346         \begin{defn}[표준 전지 전위]
+                                                
+pdfTeX warning (ext4): destination with the same identifier (name{law.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.352         \begin{law}[Nernst 등식]
+                                        
+pdfTeX warning (ext4): destination with the same identifier (name{law.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.359 ...전위와 평형 상수 사이의 관계]
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{obs.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.370 ...n{obs}[전지 반응의 반응 엔탈피]
+                                                  
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[83]
+
+[84]
+pdfTeX warning (ext4): destination with the same identifier (name{defn.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.381         \begin{defn}[표준 수소 전극]
+                                                
+pdfTeX warning (ext4): destination with the same identifier (name{defn.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.389         \begin{defn}[표준 전위]
+                                         
+pdfTeX warning (ext4): destination with the same identifier (name{obs.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.395         \begin{obs}[표준 전지 전위]
+                                               
+pdfTeX warning (ext4): destination with the same identifier (name{obs.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.421         \begin{obs}\label
+                               {eqn268}
+
+[85
+
+])
+
+[86] (./Essence of Undergraduate Physical Chemistry 1.bbl)
+
+[87
+
+
+
+
+] (./Essence of Undergraduate Physical Chemistry 1.aux (./Chapters/Ch1.aux) (./Chapters/Ch2.aux) (./Chapters/Ch3.aux) (./Chapters/Ch4.aux) (./Chapters/Ch5.aux) (./Chapters/Ch6.aux))
+ ***********
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-09>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.24995pt have occurred.
+
+Package rerunfilecheck Info: File `"Essence of Undergraduate Physical Chemistry 1".out' has not changed.
+(rerunfilecheck)             Checksum: A682086C422EB8FE9EFF0E7ADFD61FF1;4153.
+ ) 
+Here is how much of TeX's memory you used:
+ 46772 strings out of 473254
+ 929543 string characters out of 5722070
+ 1417157 words of memory out of 5000000
+ 68519 multiletter control sequences out of 15000+600000
+ 769475 words of font info for 478 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 115i,17n,110p,1119b,846s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.25} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.24} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.23} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+<c:/texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Bold.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Italic.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/STIXGeneral-Regular.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbad.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbb9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbbc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbc8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbcc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtbce.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmba.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbe.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmca.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmce.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbaf.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbca.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmc7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx0900.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathcal.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathex.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathfrak.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathit.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathrm.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathscr.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/stix/stix-mathsf.pfb>
+Output written on "Essence of Undergraduate Physical Chemistry 1.pdf" (95 pages, 7497534 bytes).
+PDF statistics:
+ 2006 PDF objects out of 2073 (max. 8388607)
+ 1506 compressed objects within 16 object streams
+ 447 named destinations out of 1000 (max. 500000)
+ 515 words of extra memory for PDF output out of 10000 (max. 10000000)
+

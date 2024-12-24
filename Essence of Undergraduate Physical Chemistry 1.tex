@@ -1,0 +1,96 @@
+\documentclass[10pt]{book}
+\usepackage[fontsize=9pt]{scrextend}
+
+\setcounter{section}{0}
+\setlength\parindent{10pt}
+
+\input{Configs/configs}
+\input{Configs/formats}
+
+\begin{document}
+
+\frontmatter
+\pagestyle{empty}
+\begin{titlepage}
+    \vspace*{2cm}
+    
+    \noindent
+    \vspace*{0.5cm}
+    {\Huge \bf 물리화학의 정수 1}
+    
+    \vspace{1.5cm}
+    \epigraph{{\it \large Essence of Undergraduate Physical Chemistry, Volume I}}%
+    { \textsc{1st Edition}}
+    \null\vfill
+    \vspace*{1cm}
+    \noindent
+    \hfill
+    \begin{minipage}{0.7\linewidth}
+        \begin{flushright}
+            \printauthordate
+        \end{flushright}
+    \end{minipage}
+    %
+    \begin{minipage}{0.02\linewidth}
+        \rule{1pt}{70pt}
+    \end{minipage}
+    \titlepagedecoration
+\end{titlepage}
+
+\pagestyle{plain}
+\chapter*{머리말}
+\addcontentsline{toc}{chapter}{머리말}
+    \section{감사의 말}
+        \hspace{\parindent} 내용을 정리할 때 가장 큰 도움을 준 책 \textit{Atkins' Physical Chemistry}의 저자 Peter Atkins, Julio de Paula, 그리고 James Keeler 교수님들께 감사드립니다. 그리고 선대군 솔루션 제작방 인원들께 감사드립니다. 이 \textbf{정수} 시리즈는 여기에서 처음 시작되었으며, 최초로 쓰여진 \textbf{정수} 시리즈는 이진문\footnote[1]{서울대학교 자연과학대학 수리과학부 20학번}의 \cite{LeeEssTop}입니다. 이 책은 백인혁\footnote[2]{서울대학교 의과대학 의학과 20학번}의 해석개론의 정수\cite{BaekEssUGAna} 양식을 참고하였습니다. 그리고 다른 정수 시리즈는 홍승주\footnote[3]{서울대학교 자연과학대학 물리$\cdot$천문학부 학부 17학번, 석박통합 21학번}의 양자역학의 정수\cite{HongEssQPhys}가 있습니다. 이 분들과 선대군 솔루션 제작방의 다른 모든 분들께 감사드립니다.
+    \section{들어가며}
+        \hspace{\parindent} 이 문서는 물리화학의 기본 개념을 정리하고, 그 개념들이 어떻게 유도되는지 정리하기 위해 작성되었습니다.
+        이 시리즈는 총 3개의 권으로 구성되며, 1권에서는 열역학을 정리합니다. Atkins' Physical Chemistry 11판을 기준으로,
+        이 부분은 챕터 1부터 6까지에 해당합니다.
+        \par 2권에서는 양자화학을 정리합니다. 이 부분은 챕터 7부터 11까지, 그리고 챕터 16에 해당합니다. 3권에서는 통계물리와 반응속도론,
+        고체화학 및 표면화학에 이르는 넓은 범위를 정리합니다. 이 부분은 챕터 12부터 15까지, 그리고 챕터 17부터 19까지에 해당합니다.
+        \par 본 책에서는 열역학에 대해 정리합니다. 먼저 1단원에서 기체에 대해 다루고, 2단원에서 열역학 제1 법칙을 다룹니다. 
+        3단원에서는 열역학 제2 및 제3 법칙을 다루면서 단일 상황에 대한 열역학 과정을 다루게 됩니다.
+        \par 이후 4단원 및 5단원에서는 상평형도에 대해 
+        다룹니다. 구체적으로 4단원에서는 단일 물질의 상평형도를, 5단원에서는 혼합물의 상평형도를 다룹니다. 마지막으로 6단원에서는 화학 평형과 
+        전기화학 기초를 다룹니다.
+    \section{에너지에 관하여}
+        \hspace{\parindent} 화학에서 에너지의 출입은 \textbf{열역학}의 언어로 기술된다. 이는 거시적인 물체에 적용되며, 3개의 법칙으로 기술된다. 
+        단일 원자나 분자의 에너지에 대해서는 \textbf{양자역학}의 언어로 기술된다. 이에 대해서는 2권에서 더 자세히 다룰 예정이다. 
+        입자의 운동에 관여하는 에너지는 양자화(Quantized) 되어 있으며, 병진 운동(Translation), 회전 운동(Rotation), 진동 운동(Vibration)의 
+        세 가지 운동이 존재한다. 병진 운동 에너지의 준위 간 차이가 매우 작아($\sim 10^{-23}$ eV) 거의 연속적이다. 또한 
+        회전 운동의 에너지 준위 간 차이는 약 0.001 eV, 진동 운동에서는 약 0.1 eV, 전자의 에너지 준위 간 차이는 수$\sim$수십 eV이다.
+        \par 단일 입자의 에너지와 열역학 사이에는 \textbf{통계역학}이라는 다리가 존재한다. 입자의 분포 $N_i$와 에너지 $\varepsilon_{i}$, 
+        절대온도 $T$ 사이에는 다음과 같은 관계가 성립한다:
+        \begin{equation*}
+            N_i \propto e^{- \frac{\varepsilon_{i}}{kT}}
+        \end{equation*}
+        이때 $k$는 \textit{Boltzmann 상수(Boltzmann's constant)}라 부르며, 그 값은 $1.380 \ 6488 \times 10^{-23}$ \textrm{J K$^{-1}$}에 해당한다. 이러한 
+        분포를 \textit{Boltzmann 분포(Boltzmann distribution)}라 한다. 이에 대해서는 3권에서 더 자세히 다룰 예정이다.
+\renewcommand{\contentsname}{차례}
+\tableofcontents
+
+\mainmatter
+\pagestyle{fancy}
+
+\include{Chapters/Ch1}
+
+\include{Chapters/Ch2}
+
+\include{Chapters/Ch3}
+
+\include{Chapters/Ch4}
+
+\include{Chapters/Ch5}
+
+\include{Chapters/Ch6}
+
+\backmatter
+\pagestyle{plain}
+
+\renewcommand{\bibname}{참고문헌}
+
+\bibliographystyle{ieeetr}
+\bibliography{ref}
+\addcontentsline{toc}{chapter}{참고문헌}
+
+\end{document}

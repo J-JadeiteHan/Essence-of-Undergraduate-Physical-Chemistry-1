@@ -1,0 +1,506 @@
+\chapter{열역학 제1 법칙}
+    \section{내부 에너지}\label{intener}
+            \hspace{\parindent} 열역학에서는 우주를 두 부분으로 나눈다:
+            \begin{defn}[계와 주위]
+            \textbf{계(System)}는 우리가 관심을 갖는 부분이다. 
+            \textbf{주위(Surroundings)}는 계를 제외한 나머지 모든 부분이다.
+            \end{defn}
+            계는 다시 세 종류로 나눌 수 있다:
+            \begin{defn}[계의 종류]
+            \begin{enum}
+            \item \textbf{열린계(Open system)}는 주위와 물질 및 에너지를 교환할 수 있는 계이다. 
+            \item \textbf{닫힌계(Closed system)}는 주위와 에너지를 교환할 수 있으나, 물질은 교환할 수 없는 계이다.
+            \item \textbf{고립계(Isolated system)}는 주위와 물질 및 에너지를 모두 교환할 수 없는 계이다.
+            \end{enum}
+            \end{defn}
+            \par 열역학에서는 에너지를 일과 열의 형태로 교환한다. 
+            \begin{defn}[일]
+            열역학에서 \textbf{일(Work)}은 압력에 \underline{대항하여} 움직이는 것을 의미한다.\footnote[1]{%
+            물리학에서는 계가 일을 하는 것으로 본다.}
+            \end{defn}
+            \begin{defn}[에너지]
+            열역학에서 계의 \textbf{에너지(Energy)}는 일을 할 수 있는 능력을 의미한다.
+            \end{defn}
+            계와 주위의 온도가 다르면 \textbf{열(Heat)}의 형태로 에너지가 이동한다. 열을 흐를 수 있게 하는 경계를 \textbf{투열성(Diathermic)}이 있다고 하고, 
+            열을 차단하는 경계를 \textbf{단열성(Adiabatic)}이 있다고 한다.\\
+            화학 반응에서, \textbf{발열 과정(Exothermic process)}은 열로 에너지를 방출하는 열역학 과정을 의미한다. 예를 들어 연소 반응이 있다. 
+            반면 \textbf{흡열 과정(Endothermic process)}은 열 형태의 에너지를 흡수하는 열역학 과정을 의미한다. 예를 들어 기화 반응이 있다. 
+            고립계에서 발열 과정이 일어나면 계의 온도가 상승하고, 반대로 흡열 과정이 일어나면 계의 온도가 하강한다.
+            \par 분자적 관점에서 보면, 열은 분자의 무작위적인 운동인 \textbf{열운동(Thermal motion)}의 정도를 변화시킨다. 반면 일은 
+            분자가 일정한 방향으로 움직이는 것으로 볼 수 있다.
+            \par \begin{defn}[내부 에너지]
+                \textbf{내부 에너지(Internal energy)}는 계가 가지고 있는 총 에너지를 일컫는다. 기호로 $U$로 표현하고, 계 \underline{내부}의 입자들의 운동 에너지 
+                및 퍼텐셜 에너지의 총합이다.\footnote[2]{계 자체의 운동으로 인한 운동 에너지는 포함하지 않는다.} 내부 에너지는 상태 함수이므로, $\Delta U = U_f - U_i$
+            로 나타낼 수 있다.
+            \end{defn}
+            \begin{defn}[상태 함수]
+            \textbf{상태 함수(State function)}는 계의 상태에만 의존하고 경로에 의존하지 않는 성질을 일컫는다.
+            \end{defn}
+            또한 내부 에너지는 
+            \textbf{크기 성질(Extensive property)}\footnote[3]{이와 상대되는 개념으로 \textbf{세기 성질(Intensive property)}이 있다. 
+            세기 성질은 계의 크기에 무관하다. 압력, 온도 등이 있다.}이다. 즉, 계의 물질량에 의존한다. 따라서 몰 내부 에너지 $U_m = U/n$를 생각할 수 있다. 
+            내부 에너지의 단위는 J( = kg m$^2$ s$^{-2}$)이고, 몰 내부 에너지의 단위는 J mol$^{-1}$이다.
+            \par 분자는 $3N$의 자유도를 가진다. \textbf{등분배 법칙(Equipartition theorem)}에 따르면, 자유도 하나 당 $\displaystyle\frac{1}{2}kT$의 내부 에너지를 가진다. 
+            계의 내부 에너지가 증가하면 더 높은 에너지 준위에 더 많은 수의 분자가 존재하게 된다. 또한, 이상 기체의 내부 에너지는 부피에 무관하다. 이는 분자 간 상호작용이
+            존재하지 않기 때문이다.
+            \par 열역학 제1 법칙은 다음과 같이 기술된다(단, $q$는 이동한 열 에너지, $w$는 일)\footnote[4]{%
+            물리학에서는 $\Delta U = q - w$로 기술한다.}:
+            \begin{law}[열역학 제1 법칙]
+                \begin{equation*}
+                    \Delta U = q + w
+                \end{equation*}
+            \end{law}
+            고립계에서는 $q=0$, $w=0$이므로 내부 에너지 변화량은 $0$이다. 또한, 열역학 제1 법칙은 또한 다음과 같이 기술된다\footnote[5]{%
+            이 또한 물리학에서는 $\difform U = \delta q + \delta w$로 기술한다.}:
+            \begin{law}[열역학 제1 법칙, 미분형]
+                \begin{equation*}
+                    \difform U = \delta q + \delta w
+                \end{equation*}
+            \end{law}
+            여기에서 $\difform\, $는 상태 함수에, $\delta$는 경로 함수에 적용한다.
+            \par 일은 다음과 같이 정의된다:
+            \begin{defn}[일]
+                \begin{equation*}
+                    \difform w = - \left\vert F \right\vert \difform z
+                \end{equation*}
+            \end{defn}
+            이때 벽면의 단면적을 $A$라 하면, $\left\vert F \right\vert = p_{\mathrm{ex}}A$가 성립하므로 다음이 성립한다\footnote[6]{%
+            물리학에서는 계에 관심을 두기 때문에, $\difform w = p \difform V$로 정의한다.
+            }:
+                \begin{align*}
+                        \difform w &= - p_{\mathrm{ex}}A \difform z\\
+                        &= -p_{\mathrm{ex}} \difform V
+                \end{align*}
+            이외에도, 계에 가해지는 일은 다음과 같은 것들이 있을 수 있다:
+                \begin{table}[H]
+                \centering
+                    \begin{tabular}{ c c c c }
+                        \hline
+                        \rowcolor{lightgray}
+                        일의 종류 & $\difform w$ & 설명 & 단위 \\
+                        \hline
+                        팽창 & $-p_{\mathrm{ex}}\difform V$ & $p_{\mathrm{ex}}$: 외부 압력 & Pa\\
+                        & & $\difform V$: 부피 변화 & m$^3$ \\
+                        \hline
+                        표면 팽창 & $\gamma \difform \sigma$ & $\gamma$: 표면 장력 & N m$^{-1}$\\
+                        & & $\difform \sigma$: 표면적 변화 & m$^2$\\
+                        \hline
+                        연장 & $f\difform l$ & $f$: 장력 & N\\
+                        & & $\difform l$: 길이 변화& m\\
+                        \hline
+                        전기적 일 & $\phi \difform Q$ &$\phi$: 전기 퍼텐셜&V\\
+                        & & $\difform Q$: 전하량 변화&C\\
+                        \hline
+                        전기적 일 & $Q \difform \phi$ &$Q$: 전하량&C\\
+                        & &$\difform \phi$: 전기 퍼텐셜 변화&V\\
+                        \hline
+                    \end{tabular}
+                \end{table}
+            따라서, 계에 팽창으로써 가한 총 일은 다음과 같이 구할 수 있다:
+            \begin{law}[팽창으로 인한 일]
+                \begin{equation*}
+                    w = -\int_{V_i}^{V_f}p_{\mathrm{ex}}\difform V
+                \end{equation*}
+            \end{law}
+            전기적 일 등과 같은 \textbf{비팽창 일(Non-expansion work)} (또는 \textbf{추가 일(Additional work)}) 또한 세기 성질과 
+            크기 성질의 곱으로 유사하게 구할 수 있다. \\
+            일정한 압력에 의한 일은 다음과 같이 구할 수 있다:
+                \begin{equation*}
+                    w = -p_{\mathrm{ex}}\left(V_f - V_i \right) = -p_{\mathrm{ex}}\Delta V
+                \end{equation*}
+            \textbf{자유 팽창(Free expansion)}은 외부 압력 $p_\mathrm{ex} = 0$일 때이므로, 계에 가한 일은 $w = 0$이다.
+            \par \begin{defn}[가역 변화]
+            열역학에서 \textbf{가역 변화(Reversible change)}는 열역학적 변수에 \textbf{매우 작은(Infinitesimal)} 변화를 가하여 역으로 되돌릴 수 있는 
+            반응을 의미한다.
+            \end{defn}
+            \begin{defn}[열평형과 역학적 평형]
+            \begin{enum}
+            \item \textbf{열평형(Thermal equilibrium)}은 온도가 같은 두 계가 이루는 가역적인 평형이다.
+            \item \textbf{역학적 평형(Mechanical equilibrium)}은 압력이 같은 두 계가 이루는 가역적인 평형이다.
+            \end{enum}
+            \end{defn}
+            외부 압력이 내부 압력과 같을 때(즉, 계와 주위가 역학적 평형을 이룰 때), 다음이 성립한다:
+            \begin{align*}
+                \difform w &= -p \difform V\\
+                w &= - \int_{V_i}^{V_f} p \difform V
+            \end{align*}
+            계가 등온 가역 팽창 과정을 거친다고 하자. 이때 이상 기체 상태방정식 $pV = nRT$에서, $p = nRT / V$로 치환하면 다음과 같은 결과를 얻는다:
+            \begin{obs}[등온 가역 과정]
+                \begin{equation*}
+                    w = -nRT\int_{V_i}^{V_f} \frac{\difform V}{V} = -nRT \ln{\frac{V_f}{V_i}}
+                \end{equation*}
+            \end{obs}
+            $V_i > V_f$일 때, $w > 0$이고 $V_i < V_f$일 때 $w < 0$이다. 계가 비가역적인 일을 할 경우 얻을 수 있는 일의 양은 가역적일 때보다 더 적다.
+            \par 일반적으로, $\difform U = \difform q + \difform w_{\mathrm{exp}} + \difform w_{\mathrm{add}}$로 나타낼 수 있다. 이때 
+            계에 가해지는 일이 없을 때, $\difform U = \difform q$로 나타낼 수 있다. 만약 등적 과정일 때, 이는 다시 한 번 
+            $\difform U=\difform q_V$로 나타낼 수 있다. 따라서 양변을 적분하면
+                \begin{equation*}
+                    \int_{i}^{f}\difform U = \int_{i}^{f}\difform q_V
+                \end{equation*}
+            즉 $\Delta U = q_V$로 나타낸다.
+            \par \textbf{열량 측정법(Calorimetry)}은 열역학 과정에서 일어나는 열의 출입을 측정한다. 여기에는 \textbf{열량계(Calorimeter)}가 이용되고, 
+            $q_V$를 측정하기 위해서는 \textbf{단열 봄 열량계(Adiabatic bomb calorimeter)}가 이용된다. 봄 열량계는 용량이 일정한 반응기('Bomb'), 열을 흡수할 수조, 
+            온도계로 이루어진다. 이때 외부와의 열 출입은 없다고 가정한다. 열용량 $C$에 대해 출입한 열은 온도 변화 $\Delta T$에 대해 $q = C\Delta T$로 측정되고, 
+            열량계의 열용량은 전기적으로 $q = It\Delta \phi$로 측정된다. 이때 $I$는 전류, $t$는 전류가 흐른 시간, $\Delta \phi$는 전위차이다. 또는 일정량의 알려진 
+            물질(주로 벤조산을 이용)을 연소함으로써 측정된다.
+            \par 온도-내부 에너지 그래프의 접선의 기울기를 그 온도에서의 \textbf{열용량(Heat capacity)}이라 한다. \textbf{등적 열용량(Heat capacity at constant volume)}은 
+            기호로 $C_V$로 나타내고, 다음과 같이 정의된다:
+            \begin{defn}[등적 열용량]
+                \begin{equation*}
+                    C_V = \left( \frac{\partial U}{\partial T}\right)_V
+                \end{equation*}
+            \end{defn}
+            열용량은 크기 성질로, 이를 세기 성질로 변환하려면 몰수로 나누어 \textbf{등적 몰 열용량(Molar heat capacity at constant volume)}을 구한다. 
+            기호로 $C_{V,m} = C_V / n$으로 나타낸다.
+            \par \begin{fact}[편미분의 성질]
+            (참고) 편미분은 다음과 같은 성질을 만족한다:
+                \begin{enum}
+                    \item $z$가 일정할 때, $\displaystyle\left( \frac{\partial f}{\partial x} \right)_z = \left(\frac{\partial f}{\partial x} \right)_y + \left(\frac{%
+                    \partial f}{\partial y}\right)_x \left(\frac{\partial y}{\partial x} \right)_z$
+                    \item $\displaystyle\left( \frac{\partial y}{\partial x} \right)_z = \displaystyle\frac{1}{\left( \displaystyle\frac{\partial x}{\partial y}\right)_z}$
+                    \item \textbf{(Euler chain relation)} $\displaystyle\left(\frac{\partial x}{\partial y}\right)_z \left(\frac{\partial y}{\partial z}\right)_x \left( \frac{\partial z}{\partial x}\right)_y = -1$ 
+                \end{enum}
+            \end{fact}
+            물질의 \textbf{비열(Specific heat capacity)}은 물질의 열용량을 질량으로 나눈 것으로, $C_{V,s} = C_V / m$로 정의된다.
+            \par 내부 에너지는 다음과 같은 관계를 만족한다:
+            \begin{obs}[내부 에너지와 등적 열용량의 관계]
+                \begin{equation*}
+                    \difform U = C_V \difform T
+                \end{equation*}
+            \end{obs}
+            즉 양변을 적분하면 다음을 만족한다:
+                \begin{equation*}
+                    \Delta U = \int_{T_i}^{T_f}C_V \difform T = C_V \Delta T
+                \end{equation*}
+            따라서 $q_V = C_V \Delta T$를 만족한다.
+    \section{엔탈피}\label{enthal}
+            \hspace{\parindent} 화학 반응은 보통 일정 압력 조건에서 일어나므로, 계의 에너지를 이와 관련된 변수로 다시 정의한다. 이를 \textbf{엔탈피(Enthalpy, $H$)}라 하고, 
+            다음과 같이 정의한다:
+            \begin{defn}[엔탈피]
+                \begin{equation*}
+                    H = U + pV
+                \end{equation*}
+            \end{defn}
+            이때 $p$는 계의 압력, $V$는 계의 부피, $U$는 계의 내부 에너지이다. $U$, $p$, $V$가 모두 상태 함수이므로 엔탈피 또한 상태 함수이다. 엔탈피 변화 $\difform H$는 
+            다음과 같이 나타낼 수 있다:
+                \begin{equation*}
+                    \begin{aligned}
+                        \difform H &= \difform \left(U+pV\right)\\
+                        &= \difform U + p \difform V + V \difform p\\
+                        &= \difform q + \difform w + p \difform V + V \difform p\\
+                        &= \difform q + \cancel{\left(-p \difform V + p \difform V\right)} + V \difform p\\
+                        &= \difform q + V \difform p
+                    \end{aligned}
+                \end{equation*}
+            이때 압력이 일정하면 $\difform p = 0$이므로, 다음이 성립한다:
+                \begin{equation*}
+                    \difform H = \difform q_p
+                \end{equation*}
+            즉, 양변을 적분하면 다음이 성립한다:
+            \begin{obs}[엔탈피 변화와 등압 열의 관계]
+                \begin{equation*}
+                    \Delta H = q_p
+                \end{equation*}
+            \end{obs}
+            \par 엔탈피를 측정하기 위해서는 \textbf{등압 열량계(Isobaric calorimeter)}를 이용한다. 연소 반응에 대해서는 \textbf{단열 불꽃 열량계(Adiabatic flame calorimeter)}를 
+            이용하기도 한다. 일반적으로는 \textbf{주사 시차 열량계(Differential Scanning Calorimeter, DSC)}를 이용한다. 이에 대해서는 \ref{thermalchem}에서 더 자세히 설명할 것이다. 또한 
+            내부 에너지와 엔탈피는 열량계로써 측정할 필요는 없고, 이는 \ref{echemcell}에서 다시 다룰 것이다.
+            \par 또한 기체 상태에서 엔탈피는 이상 기체 상태방정식을 이용하여 다음과 같이 나타낼 수 있다:
+                \begin{equation*}
+                    \Delta H = \Delta U + \Delta n_g RT
+                \end{equation*}
+            이때 $\Delta n_g$는 기체 분자의 몰수 변화이다. 이를 통해 엔탈피 변화와 내부 에너지 변화 사이의 차이를 구할 수 있다.
+            \par \textbf{등압 열용량(Heat capacity at constant pressure}, 또는 isobaric heat capacity\textbf{)}은 다음과 같이 정의된다:
+            \begin{defn}[등압 열용량]
+                \begin{equation*}
+                    C_p = \left(\frac{\partial H}{\partial T}\right)_p
+                \end{equation*}
+            \end{defn}
+            또한, \textbf{등압 몰 열용량(Molar heat capacity at constant pressure, $C_{p,m}$)}은 등압 열용량을 물질의 몰수로 나눈 것이다. 따라서 다음이 성립한다:
+                \begin{equation*}
+                    \difform H = C_p \difform T
+                \end{equation*}
+            이때 양변을 적분하면
+                \begin{equation*}
+                    \Delta H = C_p \Delta T
+                \end{equation*}
+            이 성립하고, 따라서 $q_p = C_p \Delta T$가 성립한다. $C_{p,m}$은 다음과 같이 근사할 수 있다:
+                \begin{equation*}
+                    C_{p,m} = a + bT + \frac{c}{T^2}
+                \end{equation*}
+            이때 $a$, $b$, $c$는 실험적으로 구한다.
+            \par 이상 기체에서 다음이 성립한다:
+            \begin{obs}[등압 및 등적 열용량 사이의 관계]
+                \begin{equation*}
+                    C_p - C_V = nR
+                \end{equation*}
+            \end{obs}
+            이는 \ref{exactdiff}에서 증명할 것이다.
+    \section{열화학} \label{thermalchem}
+            \hspace{\parindent} 화학 반응 도중 출입하는 열에 대한 논의를 \textbf{열화학(Thermochemistry)}이라 한다.
+            \begin{defn}[발열 반응과 흡열 반응]
+            화학 반응에서 $\Delta H < 0$인 반응을 \textbf{발열(Exothermic)} 반응이라 하고, 
+            $\Delta H > 0$인 반응을 \textbf{흡열(Endothermic)} 반응이라 한다.\footnote[7]{%
+            더 정확히는 $\Delta H < 0$일 때 \textbf{Exenthalpic}, $\Delta H > 0$일 때 \textbf{Endenthalpic}이라 한다.}
+            \end{defn}
+            \par 엔탈피 변화는 표준 조건에서 일어나는 반응을 기준으로 표현한다.
+            \begin{defn}[표준 상태]
+            어떤 물질의 특정 온도에서의 \textbf{표준 상태(Standard state)}는 그 온도에서 $1$ bar의 압력을 가질 때 순수한 물질의 상태를 의미한다. 
+            \end{defn}
+            \begin{defn}[표준 엔탈피 변화]
+            \textbf{표준 엔탈피 변화(Standard enthalpy change, $\Delta H^{\circlehbar}$)}는 반응물과 생성물이 표준 상태에 있을 때의 
+            엔탈피 변화를 일컫는다.
+            \end{defn}
+            예를 들어, $298$ K에서 액체 에탄올의 표준 상태는 $298$ K, $1$ bar에서 순수한 액체 에탄올을 의미한다. 
+            \par 표준 엔탈피의 종류에 따라 여러 이름을 붙일 수 있다: 예를 들어 물의 $373$ K에서의 표준 기화 엔탈피 
+            $\Delta_{\mathrm{vap}}H^{\circlehbar}\left(373 \mathrm{K}\right) = +40.66 \mathrm{kJ mol}^{-1}$이다. 
+            관습적으로 열역학 자료를 표현할 때에는 $298.15$ K일 때의 자료를 표시하거나, 온도를 명시한다.
+            \par 반응 엔탈피에는 다음과 같은 것들이 있다:
+            \begin{table}[H]
+            \centering
+                \begin{tabular}{ c c c }
+                    \hline
+                    \rowcolor{lightgray}
+                    변화 & 반응 & 기호 \\
+                    \hline
+                    상태 변화 (Transition) & $\alpha$상 $\rightarrow$ $\beta$상 & $\Delta_{\mathrm{trs}}H$\\
+                    융해 (Fusion) & s $\rightarrow$ l & $\Delta_{\mathrm{fus}}H$ \\
+                    기화 (Vaporization) & l $\rightarrow$ g & $\Delta_{\mathrm{vap}}H$ \\
+                    승화 (Sublimation) & s $\rightarrow$ g & $\Delta_{\mathrm{sub}}H$ \\
+                    혼합 (Mixing) & 순물질 $\rightarrow$ 혼합물 & $\Delta_{\mathrm{mix}}H$ \\
+                    용해 (Solution) & 용질 $\rightarrow$ 용액 & $\Delta_{\mathrm{sol}}H$ \\
+                    수화 (Hydration) & $X^{\pm}\left(\mathrm{g}\right) \rightarrow X^{\pm}\left(\mathrm{aq}\right)$ & $\Delta_{\mathrm{hyd}}H$ \\
+                    원자화 (Atomization) & 화학종(s, l, g) $\rightarrow$ 원자(g) & $\Delta_{\mathrm{at}}H$ \\
+                    이온화 (Ionization) & $X \left(g\right) \rightarrow X^{+}\left(g\right)+ e^{-}\left(g\right)$ & $\Delta_{\mathrm{ion}}H$ \\
+                    전자 포획 (Electron gain) & $X \left(g\right) + e^{-}\left(g\right)\rightarrow X^{-}\left(g\right)$ & $\Delta_{\mathrm{eg}}H$ \\
+                    반응 (Reaction) & 반응물 $\rightarrow$ 생성물 & $\Delta_{\mathrm{r}}H$ \\
+                    연소 (Combustion) & 화학종(s, l, g) $+ \mathrm{O}_2 \left(g\right) \rightarrow$ 산화물(s, l, g) & $\Delta_{\mathrm{c}}H$ \\
+                    생성 (Formation) & 원소 $\rightarrow$ 화합물 & $\Delta_{\mathrm{f}}H$ \\
+                    활성화 (Activation) & 반응물 $\rightarrow$ 활성화물 & $\Delta^{\ddagger}H$ \\
+                    \hline
+                \end{tabular}
+            \end{table}
+            \par 엔탈피는 상태함수이므로, 얼음이 수증기로 승화되는 반응의 표준 승화 엔탈피 $\Delta_{\mathrm{sub}}H^{\circlehbar}$는 얼음이 물로 융해되는 반응의 
+            표준 융해 엔탈피 $\Delta_{\mathrm{fus}}H^{\circlehbar}$과 물이 수증기로 기화되는 반응의 표준 기화 엔탈피 $\Delta_{\mathrm{vap}}H^{\circlehbar}$의 
+            합과 같다. 즉 $\Delta_{\mathrm{sub}}H^{\circlehbar} = \Delta_{\mathrm{fus}}H^{\circlehbar} + \Delta_{\mathrm{vap}}H^{\circlehbar}$를 만족하고, 
+            이를 그림으로 나타내면 Figure \ref{f1}과 같다. 또한 역반응의 표준 엔탈피는 정반응의 표준 엔탈피와 부호가 다르고 크기는 같다.
+            \begin{figure}[H]
+                \centering
+                \begin{tikzpicture}
+                    \draw[gray, thick, ->] (-3,-2.5) -- (-3,2) node[rotate = 90, midway, above] {엔탈피, $H$};
+                    \draw[gray, thick] (-2,-2) -- (2,-2) node[right] {s};
+                    \draw[gray, thick] (-2,-0.5) -- (0,-0.5) node[right] {l};
+                    \draw[gray, thick] (-2, 1.5) -- (2, 1.5) node[right] {g};
+                    \draw[black, thick, ->] (-1.5,-2) -- (-1.5,-0.5) node[midway, right] {$\Delta_{\mathrm{fus}}H^{\circlehbar}$};
+                    \draw[black, thick, ->] (-1.5,-0.5) -- (-1.5,1.5) node[midway, right] {$\Delta_{\mathrm{vap}}H^{\circlehbar}$};
+                    \draw[black, thick, ->] (1.5,-2) -- (1.5,1.5) node[midway, right] {$\Delta_{\mathrm{sub}}H^{\circlehbar}$};
+                \end{tikzpicture}
+                \caption{상태 변화의 Born-Haber 순환}\label{f1}
+            \end{figure}
+            \par 반응 엔탈피 $\Delta_{\mathrm{r}}H^{\circlehbar}$는 다음과 같이 정의된다:
+            \begin{defn}[반응 엔탈피]
+            \begin{equation*}
+                \Delta_{\mathrm{r}}H^{\circlehbar} = \sum_{\textrm{생성물}} \nu H^{\circlehbar}_{m} - \sum_{\textrm{반응물}} \nu H^{\circlehbar}_{m}
+            \end{equation*}
+            이때 $\nu$는 반응식의 화학종별 계수이다.
+            \end{defn}
+            \par 표준 반응 엔탈피는 다른 반응의 반응 엔탈피를 구하기 위해 이용될 수 있다. 이때 이용되는 법칙은 \textbf{Hess의 법칙(Hess's law)}이다:
+            \begin{law}[Hess의 법칙]
+                어떤 반응의 표준 반응 엔탈피는 그 반응을 나누었을 때 각 반응의 표준 반응 엔탈피의 합과 같다.
+            \end{law}
+            \vspace{2pt}
+            \par 이때 주로 이용되는 것은 \textbf{표준 생성 엔탈피(Standard enthalpy of formation, $\Delta_\mathrm{f} H^{\circlehbar}$)}로, 
+            어떤 화학종이 \textbf{표준 상태(Reference state)}의 원소로부터 생성될 때의 반응 엔탈피를 말한다. 표준 상태는 다음과 같이 정의된다:
+            \begin{defn}[표준 상태]
+                어떤 원소의 표준 상태는 주어진 온도와 $1$ bar에서 가장 안정한 상태를 말한다.
+            \end{defn}
+            \vspace{2pt}
+            실제로 반응 엔탈피의 계산은 다음과 같이 이루어진다:
+            \begin{equation*}
+                \Delta_\mathrm{r}H^{\circlehbar} = \sum_{\textrm{생성물}}\nu \Delta_{\mathrm{f}}H^{\circlehbar} - \sum_{\textrm{반응물}}\nu \Delta_{%
+                \mathrm{f}}H^{\circlehbar}
+            \end{equation*}
+            또한 Hess의 법칙에 따라 다음 Figure \ref{f2}가 성립한다.
+            \begin{figure}[H]
+                \centering
+                \begin{tikzpicture}
+                    \draw[gray, thick, ->] (-3,-2.5) -- (-3,2) node[rotate = 90, midway, above] {엔탈피, $H$};
+                    \draw[gray, thick] (-2,-2) -- (2,-2) node[midway, above] {생성물};
+                    \draw[gray, thick] (-2,-0.5) -- (0,-0.5) node[right, above] {반응물};
+                    \draw[gray, thick] (-2, 1.5) -- (2, 1.5) node[right] {원소};
+                    \draw[black, thick, ->] (-1.5,-0.5) -- (-1.5,-2) node[midway, right] {$\Delta_{\mathrm{r}}H^{\circlehbar}$};
+                    \draw[black, thick, ->] (-1.5,-0.5) -- (-1.5,1.5) node[midway, right] {$-\Delta_{\mathrm{f}}H^{\circlehbar}\left(\textrm{반응물}\right)$};
+                    \draw[black, thick, ->] (1.5,1.5) -- (1.5,-2) node[midway, right] {$\Delta_{\mathrm{f}}H^{\circlehbar}\left(\textrm{생성물}\right)$};
+                \end{tikzpicture}
+                \caption{반응 엔탈피와 생성 엔탈피 간의 관계}\label{f2}
+            \end{figure}
+        \par 이때 화학종 $J$에 대해 \textbf{화학량수(Stoichiometric number, $\nu_\mathrm{J}$)}를 도입하면 
+        반응물에서는 음수, 생성물에서는 양수이므로 다음이 성립한다:
+        \begin{defn}
+        \begin{equation*}
+            \Delta_{\mathrm{r}}H^{\circlehbar} = \sum_{\mathrm{J}}\nu_{\mathrm{J}}\Delta_{\mathrm{f}}H^{\circlehbar}\left(\mathrm{J}\right)
+        \end{equation*}
+        \end{defn}
+        \par 순물질과 마찬가지로 반응에서도 엔탈피 변화와 등적 열용량 사이의 관계가 존재한다. 이를 \textbf{Kirchhoff의 법칙(Kirchhoff's law)}이라 한다:
+        \begin{law}[Kirchhoff의 법칙]\label{kirlaw}
+        \begin{equation*}
+            \Delta_\mathrm{r}H^{\circlehbar}\left(T_2 \right) = \Delta_\mathrm{r}H^{\circlehbar}\left( T_1 \right) + \int_{T_1}^{T_2}\Delta_\mathrm{r}C^{\circlehbar}_{p}\difform T
+        \end{equation*}
+        \end{law}
+        이때 $\displaystyle\Delta_{\mathrm{r}}C^{\circlehbar}_{p} = \sum_{\mathrm{J}}\nu_{\mathrm{J}}C^{\circlehbar}_{p,m}\left(\mathrm{J}\right)$를 만족하고, 따라서 다음을 만족한다: 
+        \begin{equation*}
+            \Delta_\mathrm{r}H^{\circlehbar}\left(T_2 \right) = \Delta_\mathrm{r}H^{\circlehbar}\left(T_1 \right) + \Delta_\mathrm{r}C^{\circlehbar}_{p}\left(T_2 - T_1 \right)
+        \end{equation*}
+        \par 실험적으로는 \textbf{DSC}와 \textbf{등온 적정 열량 측정법(Isothermal titration calorimetry, ITC)}이 있다.
+        \par DSC에서는 단위 시간 동안 일정한 온도 변화 $\alpha$(K s$^{-1}$)를 주어, 출입하는 열량을 측정한다. 만약 어떠한 물리적·화학적 변화도 일어나지 않는다고 
+        가정하면(Reference), 시간 $t$에서 $q_p = C_p \alpha t$의 열량이 출입한다. 그러나 물리적·화학적 변화가 있을 경우(Sample), 이때 온도를 Reference와 같게 하기 
+        위해 추가적으로 출입한 열량을 $q_{p,\mathrm{ex}}$라 하면 총 출입한 열량은 $q_p + q_{p,\mathrm{ex}}$이다. 따라서 물질 자체의 변화에서 
+        $C_{p,\mathrm{ex}}$를 측정하면 다음과 같은 식을 만족한다:
+        \begin{equation*}
+            C_{p,\mathrm{ex}} = \frac{q_{p,\mathrm{ex}}}{\Delta T} = \frac{q_{p,\mathrm{ex}}}{\alpha t} = \frac{P_{\mathrm{ex}}}{\alpha}
+        \end{equation*}
+        이때 $P_{\mathrm{ex}}$는 온도를 같게 맞추기 위해 더 출입한 전력이다. 따라서 $x$축을 온도, $y$축을 $C_{p,\mathrm{ex}}$로 하는 
+        \textbf{시차 열분석 곡선(서모그램, Thermogram)}을 얻을 수 있다. 따라서 물질의 상태 변화에 출입한 엔탈피는 다음과 같이 구할 수 있다:
+        \begin{equation*}
+            \Delta H = \int_{T_1}^{T_2}C_{p,\mathrm{ex}}\difform T
+        \end{equation*}
+        \par 마찬가지로 ITC에서는 적정 시 출입하는 열량을 온도를 같게 맞추기 위한 전력 출입으로 변환하여 측정한다. ITC 그래프를 적분하면 적정 과정 전체의 엔탈피 
+        변화 그래프를 얻을 수 있다.
+    \section{상태 함수와 완전미분}\label{exactdiff}
+        \hspace{\parindent} \textbf{완전미분(Exact differential)}은 상태 함수의 전미분을 말하고, \textbf{불완전미분(Inexact differential)}은 
+        경로 함수의 전미분을 말한다. 예를 들어, 상태 함수인 내부 에너지의 전미분 $\difform U$는 완전미분이고, 경로 함수인 열의 전미분 $\difform q$이나 
+        일의 전미분 $\difform w$은 불완전미분이다. 불완전미분일 때, $\difform $나 $\delta$ 위에 줄을 긋기도 한다.
+        \par 내부 에너지는 다음과 같이 나타낼 수 있다:
+        \begin{cor}[내부 에너지의 전미분]
+        \begin{equation*}
+            \difform U = \left(\frac{\partial U}{\partial V}\right)_T \difform V + \left(\frac{\partial U}{\partial T}\right)_V \difform T
+        \end{equation*}
+        \end{cor}
+        이때 $\displaystyle\left(\frac{\partial U}{\partial T}\right)_V = C_V$가 됨은 앞의 \ref{intener}에서 살펴보았다. 또한, \textbf{내부 압력(Internal pressure)} $\pi_T$를 
+        다음과 같이 정의하자:
+        \begin{defn}[내부 압력]
+        \begin{equation*}
+            \pi_T = \left( \frac{\partial U}{\partial V}\right)_T
+        \end{equation*}
+        \end{defn}
+        따라서 내부 에너지의 전미분은 다음과 같이 나타낼 수 있다:
+        \begin{cor}[내부 에너지의 전미분]
+        \begin{equation*}
+            \difform U = \pi_T \difform V + C_V \difform T
+        \end{equation*}
+        \end{cor}
+        이때 분자 사이에 어떠한 상호작용도 없다면 $\pi_T = 0$이다.
+        \par 압력이 일정할 때, $\displaystyle\left( \frac{\partial U}{\partial T}\right)_p$를 구하면 다음과 같다:
+        \begin{equation*}
+            \left(\frac{\partial U}{\partial T}\right)_p = \pi_T\left(\frac{\partial V}{\partial T}\right)_p + C_V
+        \end{equation*}
+        이때 압력이 일정할 때 온도에 따른 부피의 변화량, 즉 \textbf{열팽창률(Expansion coefficient)} $\alpha$는 다음과 같이 정의된다:
+        \begin{defn}[열팽창률]
+        \begin{equation*}
+            \alpha = \frac{1}{V} \left(\frac{\partial V}{\partial T} \right)_p
+        \end{equation*}
+        \end{defn}
+        또한 \textbf{등온 압축률(Isothermal compressibility)} $\kappa_T$를 다음과 같이 정의한다:
+        \begin{defn}[등온 압축률]
+        \begin{equation*}
+            \kappa_T = -\frac{1}{V}\left(\frac{\partial V}{\partial p}\right)_T
+        \end{equation*}
+        \end{defn}
+        이는 온도가 일정할 때 압력이 증가함에 따른 부피의 감소량을 의미한다.
+        \par 따라서 $\displaystyle\left(\frac{\partial U}{\partial T}\right)_p = \alpha \pi_T V + C_V$를 만족하고, 이상 기체에서는 $\pi_T = 0$이므로 
+        $\displaystyle\left(\frac{\partial U}{\partial T}\right)_p = C_V$를 만족한다.
+        \par $C_p$와 $C_V$의 정의에 따라 이상 기체에서 이 둘의 차이는 다음을 만족한다:
+        \begin{cor}[등압 열용량과 등적 열용량의 차, 이상 기체에서]
+        \begin{equation*}
+            \begin{aligned}
+                C_p - C_V &= \left(\frac{\partial H}{\partial T}\right)_p - \left(\frac{\partial U}{\partial T} \right)_p\\
+                &= \left(\frac{\partial \left(U-nRT\right)}{\partial T}\right)_p - \left(\frac{\partial U}{\partial T}\right)_p\\
+                &= nR
+            \end{aligned}
+        \end{equation*}
+        \end{cor}
+        일반적으로는 다음을 만족한다:
+        \begin{cor}[등압 열용량과 등적 열용량의 차, 일반화]\label{cpcvgen}
+        \begin{equation*}
+            C_p - C_V = \frac{\alpha^2 TV}{\kappa_T}
+        \end{equation*}
+        \end{cor}
+        이상 기체에서, $\alpha = 1/T$이고 $\kappa_T = 1/p$이므로 \ref{cpcvgen}을 만족한다.
+        \par 엔탈피에서도 마찬가지로,
+        \begin{cor}[엔탈피의 전미분]
+        \begin{equation*}
+            \difform H = \left(\frac{\partial H}{\partial p}\right)_T \difform p + \left(\frac{\partial H}{\partial T}\right)_p \difform T
+        \end{equation*}
+        \end{cor}
+        를 만족한다. 이때 $\displaystyle\left(\frac{\partial H}{\partial T}\right)_p = C_p$이고, 
+        $\displaystyle\left(\frac{\partial H}{\partial p}\right)_T = -\left(\frac{\partial T}{\partial p}\right)_H \left(\frac{\partial H}{\partial T}\right)_p$이므로 
+        \textbf{Joule-Thomson 계수($\mu$)}를 $\displaystyle\mu = \left(\frac{\partial T}{\partial p}\right)_H$로 정의하면 다음이 성립한다:
+        \begin{equation*}
+            \difform H = -\mu C_p \difform p + C_p \difform T
+        \end{equation*}
+        \par 이때 \textbf{등엔탈피(Isenthalpic)} 조건에서 부피가 변화하면 온도가 변화하는 것을 \textbf{Joule-Thomsom 효과(Joule-Thomson effect)}라 한다. 
+        이러한 효과는 실제 기체에서만 관찰된다; 이상 기체에서는 $\mu = 0$이기 때문이다. 실제 기체의 Joule-Thomson 계수는 다음 Figure \ref{f3}과 같이 관찰된다. 
+        \begin{figure}[H]
+            \centering
+            \begin{tikzpicture}
+                \filldraw[color=gray, fill=gray!10, very thick] (-5,-2) .. controls (2,-1.5) and (2,0.1) .. (-5,1.7);
+                \draw[black, very thick, ->] (-5,-3) -- (-5,3) node[rotate = 90, midway, above] {온도, $T$};
+                \draw[black, very thick, ->] (-5,-3) -- (5,-3) node[midway, below] {압력, $p$};
+                \node[] at (-4,0.3) {$\mu > 0$};
+                \node[] at (-4, -0.3) {냉각};
+                \node[] at (2,0.3) {$\mu < 0$};
+                \node[] at (2, -0.3) {가열}; 
+            \end{tikzpicture}
+            \caption{실제 기체의 온도-압력 그래프와 Joule-Thomson 계수}\label{f3}
+        \end{figure}
+        \par 이때 같은 압력에서 $\mu < 0$에서 $\mu > 0$으로 바뀌는 온도를 하부(Lower) \textbf{역전 온도(Inversion temperature)}, $\mu > 0$에서 $\mu < 0$으로 바뀌는 온도를 
+        상부(Upper) 역전 온도라고 한다. 이를 분자 운동론적으로 해석하면, 등엔탈피 조건에서 분자 간 인력이 주로 작용할 때($Z<1$) 압력을 높이면 온도가 상승한다($\mu>0$). 
+        반대로, 분자 간 반발력이 주로 작용할 때($Z>1$) 압력을 높이면 온도가 하강한다($\mu<0$).
+    \section{단열 과정}
+        \hspace{\parindent}단열 과정에서는 계의 열 출입이 없다. 따라서 $\difform q = 0$을 만족하므로, $\Delta U = \difform w_{\mathrm{ad}}$를 만족한다. 
+        한편, \ref{intener}에서 $\Delta U = C_V \Delta T$임을 보였다. 따라서 다음이 성립한다:
+        \begin{equation*}
+            w_{\mathrm{ad}} = C_V \Delta T
+        \end{equation*}
+        따라서 가역 과정에서 $w = -p \difform V$이므로, 이상 기체에서 다음 과정이 성립한다:
+        \begin{equation*}
+        \begin{aligned}
+            C_V \difform T &= -p\difform T = -\frac{nRT\difform T}{V}\\
+            \frac{C_V \difform T}{T} &= -\frac{nR\difform V}{V}\\
+            C_V \int_{T_i}^{T_f} \frac{\difform T}{T} &= -nR \int_{V_i}^{V_f} \frac{\difform V}{V}\\
+            C_V \ln{\frac{T_f}{T_i}} &= -nR\ln{\frac{V_f}{V_i}}\\
+            \frac{C_V}{nR} \ln{\frac{T_f}{T_i}} &= \ln{\frac{V_i}{V_f}}
+        \end{aligned}
+        \end{equation*}
+        이때 $C_V /nR = C_{V,m}/R$이고 이 값을 $c$로 두면
+        \begin{equation*}
+            \begin{aligned}
+                c \ln{\frac{T_f}{T_i}} &= \ln{\frac{V_i}{V_f}}\\
+                \ln{\left(\frac{T_f}{T_i}\right)^c} &= \ln{\frac{V_i}{V_f}}
+            \end{aligned}
+        \end{equation*}
+        가 성립한다. 따라서 양변을 정리하면 다음이 성립한다:
+        \begin{obs}[단열 과정에서 부피와 온도 사이의 관계]
+        \begin{equation*}
+            V_i {T_i}^c = V_f {T_f}^c,\ c=\frac{C_{V,m}}{R}
+        \end{equation*}
+        \end{obs}
+        \par 마찬가지로, 이상 기체에서 $C_{p,m}-C_{V,m} = R$이 성립하므로, 단열 과정에서 다음이 성립한다:
+        \begin{equation*}
+            \begin{aligned}
+                \frac{p_i V_i}{p_f V_f} = \frac{T_i}{T_f} &= \left(\frac{V_f}{V_i}\right)^{1/c}\\
+                \frac{p_i}{p_f}\left(\frac{V_i}{V_f}\right)^{\frac{1}{c} + 1} &= 1
+            \end{aligned}
+        \end{equation*}
+        이때 $\displaystyle\frac{1}{c} + 1 = \frac{R + C_{V,m}}{C_{V,m}} = \frac{C_{p,m}}{C_{V,m}} = \gamma$라 두면,
+        \begin{equation*}
+            \frac{p_i}{p_f}\left(\frac{V_i}{V_f}\right)^{\gamma} = 1
+        \end{equation*}
+        이다. 즉 다음이 성립한다:
+        \begin{cor}[단열 과정에서 압력과 부피 사이의 관계]
+        \begin{equation*}
+            p_f {V_f}^{\gamma} = p_i {V_i}^{\gamma}
+        \end{equation*}
+        \end{cor}
+        \par 단원자 이상 기체에서, $\displaystyle C_{V,m} = \frac{3}{2}R$이고 $\displaystyle C_{p,m} = \frac{5}{2}R$이므로 \textbf{$\displaystyle\gamma = \frac{5}{3}$}이다. 다원자 이상 기체에서는 
+        분자의 모양에 따라 다른 값을 취한다. $\gamma >1$이므로, 단열 과정($\displaystyle p \propto 1/{V^{\gamma}}$)에서는 등온 과정($\displaystyle p \propto 1/V$)에서보다 더 가파른 기울기를 보인다.

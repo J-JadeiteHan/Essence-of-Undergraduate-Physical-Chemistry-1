@@ -1,0 +1,139 @@
+\usepackage[b5paper,
+    inner=16mm,         % Inner margin
+    outer=24mm,         % Outer margin
+    bindingoffset=10mm, % Binding offset
+    top=28mm,           % Top margin
+    bottom=28mm,        % Bottom margin
+]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amsthm, amsfonts, kotex, enumitem, setspace, lipsum, amssymb, tabularray, mathtools, chngcntr, tikz, tikz-cd, graphicx, scalerel, graphbox, stmaryrd, float, colortbl, multirow, multicol, caption, subcaption, pgffor, appendix, makeidx, physics, gensymb, footnote, cancel}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue]{hyperref}
+% \let\Bbbk\relax
+% \usepackage{newtxtext, newtxmath}
+\usepackage{libertineRoman, libertineMono}
+\usepackage[T1]{fontenc}
+\usepackage[notextcomp]{stix}
+\setstretch{1.4}
+\usepackage[symbol]{footmisc}
+% \usepackage[bottom]{footmisc}
+% \usepackage{microtype}
+% \usepackage{silence}
+
+% % Ignore all warnings about font size substitutions
+% \WarningFilter{font}{Font shape `T1/cmss/m/n' in size}
+
+\usepackage{iftex}
+\ifPDFTeX
+    \usepackage{dhucs-nanumfont}
+    % \usepackage{newtxmath}
+\else\ifXeTeX
+      \usepackage{fontspec}
+      \setmainhangulfont{NanumMyeongjo}[%
+    	Renderer = OpenType,
+    	FontFace = {m}{n}{ Font = * },
+    	FontFace = {m}{it}{ Font = *, FakeSlant=.167 },
+    	FontFace = {m}{up}{ Font = * },
+    	FontFace = {bx}{n}{ Font = {* ExtraBold} },
+    	FontFace = {bx}{it}{ Font = {* ExtraBold}, FakeSlant=.167 }
+    ]
+    \setsanshangulfont{NanumGothic}
+\else\ifLuaTeX
+  \usepackage{fontspec}
+      \setmainfont{Times New Roman}
+      \setmainhangulfont{NanumMyeongjo}[%
+    	Renderer = OpenType,
+    	FontFace = {m}{n}{ Font = * },
+    	FontFace = {m}{it}{ Font = *, FakeSlant=.167 },
+    	FontFace = {m}{up}{ Font = * },
+    	FontFace = {bx}{n}{ Font = {* ExtraBold} },
+    	FontFace = {bx}{it}{ Font = {* ExtraBold}, FakeSlant=.167 }
+    ]
+    \setsanshangulfont{NanumGothic}
+\fi\fi\fi
+
+
+% Upper cases
+
+\foreach \x in {A,...,Z}{%
+\expandafter\xdef\csname bb\x\endcsname{\noexpand\ensuremath{\noexpand\mathbb{\x}}}
+\expandafter\xdef\csname cal\x\endcsname{\noexpand\ensuremath{\noexpand\mathcal{\x}}}
+\expandafter\xdef\csname frak\x\endcsname{\noexpand\ensuremath{\noexpand\mathfrak{\x}}}
+\expandafter\xdef\csname bf\x\endcsname{\noexpand\ensuremath{\noexpand\mathbf{\x}}}
+}
+
+\newcommand{\NN}{\bbN}
+\newcommand{\ZZ}{\bbZ}
+\newcommand{\QQ}{\bbQ}
+\newcommand{\RR}{\bbR}
+\newcommand{\CC}{\bbC}
+\newcommand{\FF}{\bbF}
+
+% Lower cases
+
+\foreach \x in {a,...,z}{%
+\expandafter\xdef\csname frak\x\endcsname{\noexpand\ensuremath{\noexpand\mathfrak{\x}}}
+\expandafter\xdef\csname bf\x\endcsname{\noexpand\ensuremath{\noexpand\mathbf{\x}}}
+}
+
+
+% Brackets
+
+\newcommand{\inner}[2]{\left\langle#1, #2\right\rangle}
+
+\newcommand{\gen}[1]{\left\langle#1\right\rangle}
+
+\newcommand{\floor}[1]{\left\lfloor#1\right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil#1\right\rceil}
+
+% Operators
+
+\DeclareMathOperator{\difform}{d\!}
+
+% Shortcuts
+
+\newcommand{\vn}{\varnothing}
+
+\newcommand{\eps}{\varepsilon}
+\newcommand{\dt}{\delta}
+\newcommand{\one}{\mathbf{1}}
+
+\newcommand{\xR}{\RR^{\star}}
+
+\newcommand{\seq}[2][\NN]{(#2_n)_{n \in #1}}
+\newcommand{\subseq}[1]{(#1_{n(k)})_{k \in \NN}}
+\newcommand{\sub}{\subseteq}
+\newcommand{\pa}{\partial}
+\newcommand{\setm}{\setminus}
+
+\newcommand{\lop}{L'H\^opital}
+\newcommand{\sch}{Schr\"odinger}
+
+\newcommand{\toto}{\rightrightarrows}
+\newcommand{\supnorm}[1]{\norm{#1}_{\sup}}
+
+\newcommand{\longto}{\longrightarrow}
+
+
+\newenvironment{enum}
+	{\begin{enumerate}[leftmargin=*, noitemsep, topsep=2pt, label={\sf (\alph*)}]}
+	{\end{enumerate}}
+
+\newenvironment{enumroman}
+	{\begin{enumerate}[leftmargin=*, noitemsep, topsep=2pt, label={\sf (\roman*)}]}
+	{\end{enumerate}}
+
+\numberwithin{equation}{section}
+
+\input{Configs/thmstyles}
+
+% \usepackage{tablefootnote} 
+% \makeatletter 
+% \AfterEndEnvironment{mdframed}{%
+%  \tfn@tablefootnoteprintout% 
+%  \gdef\tfn@fnt{0}% 
+% }
+% \makeatother 
+
+\newcommand{\tablefootnote}{\footnote}
+
+\allowdisplaybreaks

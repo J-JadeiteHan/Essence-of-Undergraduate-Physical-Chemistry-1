@@ -1,0 +1,73 @@
+\usepackage{kotex}
+\usepackage{amsthm, thmtools}
+\usepackage{ hyperref,%\autoref % n.b. \Autoref is defined by thmtools
+cleveref,% \cref % n.b. cleveref after! hyperref
+}
+
+\usepackage[framemethod=TikZ]{mdframed}
+\mdfsetup{skipabove=2em,skipbelow=2em}
+
+\theoremstyle{definition}
+\declaretheoremstyle[
+    headfont=\sffamily\bfseries, bodyfont=\normalfont,
+    % mdframed={
+    %     linewidth=2pt,
+    %     rightline=true, topline=false, bottomline=false,
+    %     linecolor=black, backgroundcolor=black!3!white,
+    % }
+]{thmbox}
+
+\declaretheoremstyle[
+    headfont=\sffamily\color{black!70!black}, bodyfont=\normalfont,
+    numbered=no,
+    % mdframed={
+    %     linewidth=0pt,
+    %     rightline=false, topline=false, bottomline=false,
+    %     linecolor=black, backgroundcolor=black!2!white,
+    % },
+    qed=\qedsymbol
+]{thmproofbox}
+
+\theoremstyle{definition}
+\declaretheoremstyle[
+    headfont=\bfseries\sffamily\color{black!70!black}, bodyfont=\normalfont,
+    % mdframed={
+    %     linewidth=0pt,
+    %     rightline=false, topline=false, bottomline=false,
+    %     linecolor=black, backgroundcolor=black!3!white,
+    % }
+]{exerbox} 
+
+\declaretheorem[numberwithin=section,style=thmbox, name=정의, refname={정의, 정의}, Refname={정의, 정의}]{defn}
+\declaretheorem[sibling=defn,style=thmbox, name=예시, refname={예시,예시}, Refname={예시,예시}]{eg}
+\declaretheorem[sibling=defn,style=thmbox, name=명제, refname={명제, 명제}, Refname={명제, 명제}]{prop}
+\declaretheorem[sibling=defn,style=thmbox, name=정리, refname={정리, 정리}, Refname={정리, 정리}]{thm}
+\declaretheorem[sibling=defn,style=thmbox, name=도움정리, refname={도움정리, 도움정리}, Refname={도움정리, 도움정리}]{lem}
+\declaretheorem[sibling=defn,style=thmbox, name=따름정리, refname={따름정리, 따름정리}, Refname={따름정리, 따름정리}]{cor}
+\declaretheorem[sibling=defn,style=thmbox, name=법칙, refname={법칙, 법칙}, Refname={법칙, 법칙}]{law}
+\declaretheorem[sibling=defn,style=thmbox, name=관찰, refname={관찰, 관찰}, Refname={관찰, 관찰}]{obs}
+\declaretheorem[sibling=defn,style=thmbox, name=주의, refname={주의, 주의}, Refname={주의, 주의}]{warn}
+\declaretheorem[sibling=defn,style=thmbox, name=질문, refname={질문, 질문}, Refname={질문, 질문}]{que}
+\declaretheorem[sibling=defn,style=thmbox, name=사실, refname={사실, 사실}, Refname={사실, 사실}]{fact}
+\declaretheorem[sibling=defn,style=thmbox, name=논의, refname={논의, 논의}, Refname={논의, 논의}]{rem}
+\declaretheorem[sibling=defn,style=thmbox, name=표기, refname={표기, 표기}, Refname={표기, 표기}]{notn}
+\declaretheorem[sibling=defn,style=exerbox, name=연습문제, refname={연습문제, 연습문제}, Refname={연습문제, 연습문제}]{exr}
+\declaretheorem[sibling=defn,style=exerbox, name=*연습문제, refname={*연습문제, *연습문제}, Refname={*연습문제, *연습문제}]{exrhard}
+
+\declaretheorem[style=thmbox, name=주장, refname={주장, 주장}, Refname={주장, 주장}]{claim}
+\declaretheorem[style=thmbox, numbered=no, name=주장, refname={주장, 주장}, Refname={주장, 주장}]{claimnonumbered}
+
+\declaretheorem[style=thmbox, numbered=no, name=논의, refname={논의, 논의}, Refname={논의, 논의}]{remnonum}
+
+\declaretheorem[style=thmproofbox, name=증명]{replacementproof}
+\renewenvironment{proof}[1][]{\begin{replacementproof}[name=#1]}{\end{replacementproof}}
+
+\usepackage[most]{tcolorbox}
+
+\newenvironment{sketch}[1][\textbf{\textsf{[연습장]}}]
+{\begin{tcolorbox}[boxrule=0.1mm, breakable]
+\begin{center}
+#1
+\end{center}
+}
+{\end{tcolorbox}}

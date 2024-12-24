@@ -1,0 +1,98 @@
+\usepackage{epigraph}
+\usepackage{fancyhdr}
+% \usepackage{fontspec}
+\usepackage{emptypage}
+\newcommand*{\blankpage}{
+{\newpage \vspace*{5cm}\thispagestyle{empty}\centering \bfseries  \textit{This page is intentionally left blank.} \par}
+\vspace{\fill}}
+\let\uwu=\cleardoublepage
+
+%titlepage
+\renewcommand\epigraphflush{flushright}
+\renewcommand\epigraphsize{\normalsize}
+\setlength\epigraphwidth{0.7\textwidth}
+
+\DeclareFixedFont{\titlefont}{T1}{ppl}{bx}{n}{0.75in}
+
+\makeatletter                       
+\def\printauthordate{%                  
+    {\large \@author \\
+    \smallskip
+    \@date\\
+    \bigskip
+    정수출판사}}              
+\makeatother
+\author{한준영}
+\date{\today}
+
+\newcommand\titlepagedecoration{%
+\begin{tikzpicture}[remember picture,overlay,shorten >= -10pt]
+
+\coordinate (aux1) at ([yshift=-15pt]current page.north east);
+\coordinate (aux2) at ([yshift=-410pt]current page.north east);
+\coordinate (aux3) at ([xshift=-4.5cm]current page.north east);
+\coordinate (aux4) at ([yshift=-150pt]current page.north east);
+
+\begin{scope}[black!40,line width=12pt,rounded corners=12pt]
+\draw
+  (aux1) -- coordinate (a)
+  ++(225:5) --
+  ++(-45:5.1) coordinate (b);
+\draw[shorten <= -10pt]
+  (aux3) --
+  (a) --
+  (aux1);
+\draw[opacity=0.6,black,shorten <= -10pt]
+  (b) --
+  ++(225:2.2) --
+  ++(-45:2.2);
+\end{scope}
+\draw[black,line width=8pt,rounded corners=8pt,shorten <= -10pt]
+  (aux4) --
+  ++(225:0.8) --
+  ++(-45:0.8);
+\begin{scope}[black!70,line width=6pt,rounded corners=8pt]
+\draw[shorten <= -10pt]
+  (aux2) --
+  ++(225:3) coordinate[pos=0.45] (c) --
+  ++(-45:3.1);
+\draw
+  (aux2) --
+  (c) --
+  ++(135:2.5) --
+  ++(45:2.5) --
+  ++(-45:2.5) coordinate[pos=0.3] (d);   
+\draw 
+  (d) -- +(45:1);
+\end{scope}
+\end{tikzpicture}%
+}
+
+\usepackage{titlesec}% <-- to change chapter, section,... style
+\usepackage[titles]{tocloft}% <-- changes to ToC
+\cftsetindents{chapter}{0ex}{5ex}
+\cftsetindents{section}{5ex}{6ex}
+\cftsetindents{subsection}{11ex}{7ex}
+    
+
+\usepackage{titlesec}
+\renewcommand{\chaptername}{장}
+\titleformat{\chapter}[display]
+  {\Huge\bfseries}{\thechapter~\chaptername}{20pt}{\Huge\bfseries}
+
+\titleformat{\section}
+{\normalfont\Large\bfseries}{~\thesection}{1em}{}
+\newcommand{\sectionbreak}{\ifnum\value{section}>1 \clearpage\fi}
+
+
+\usepackage{fancyhdr}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.~~#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.~~#1}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LO]{\rightmark}
+\fancyhead[RE]{\leftmark}
+\fancyhead[LE,RO]{\thepage}
+\setlength{\headheight}{15pt}
+\addtolength{\topmargin}{-2.5pt}
+
